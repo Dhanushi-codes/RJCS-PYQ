@@ -1,0 +1,26 @@
+[
+    {
+        "subject": "Database Management System",
+        "topic": "Normalization",
+        "year": 2025,
+        "semester": 3,
+        "marks": 10,
+        "question": "Explain normalization and discuss the different normal forms with suitable examples."
+    },
+    {
+        "subject": "Database Management System",
+        "topic": "Normalization",
+        "year": 2024,
+        "semester": 3,
+        "marks": 8,
+        "question": "Explain 1NF, 2NF, 3NF and BCNF with suitable examples."
+    },
+    {
+        "subject": "Database Management System",
+        "topic": "Transactions",
+        "year": 2025,
+        "semester": 3,
+        "marks": 8,
+        "question": "Explain the different states of a database transaction."
+    }
+]
