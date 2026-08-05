@@ -247,3 +247,47 @@ body.dark-theme nav a,
 body.dark-theme .nav-link {
   color: #ffffff;
 }
+
+/* =========================
+   DARK MODE NAVBAR OVERRIDES
+========================= */
+
+body.dark-theme header,
+body.dark-theme .navbar {
+  background: rgba(18, 18, 18, 0.85) !important;
+  border-bottom: 1px solid #333333;
+}
+
+/* Make logo title white in dark mode */
+body.dark-theme .logo h2 {
+  color: #ffffff;
+}
+
+/* Make nav links light gray/white in dark mode */
+body.dark-theme .nav-links a {
+  color: #e5e7eb;
+}
+
+/* Nav link hover state in dark mode */
+body.dark-theme .nav-links a:hover {
+  color: #ffffff;
+}
+
+/* Nav link hover underline in dark mode */
+body.dark-theme .nav-links a::after {
+  background: #ffffff;
+}
+
+/* Explicitly hide the checkbox input */
+#darkmode-toggle,
+.toggleWrapper input[type="checkbox"] {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+}
+
+body.dark-theme .logo img {
+  border-color: rgba(255, 255, 255, 0.15);
+}

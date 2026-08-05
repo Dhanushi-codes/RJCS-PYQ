@@ -1,6 +1,10 @@
 /* =========================
         NAVBAR
 ========================= */
+nav {
+  margin-left: auto;
+  margin-right: 45px;
+}
 
 .navbar{
 
@@ -49,11 +53,12 @@
 
 .logo img{
 
-    width:55px;
-
-    height:55px;
-
     object-fit:contain;
+    width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover; /* Ensures the logo fills the circular frame without stretching */
+  border: 1px solid rgba(0, 0, 0, 0.08); /* Optional subtle border to define the edge */
 }
 
 .logo h2{
@@ -76,7 +81,7 @@
     list-style:none;
 
    
-    gap:60px;
+    gap:35px;
 }
 
 .nav-links li{
