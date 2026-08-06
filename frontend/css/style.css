@@ -60,3 +60,205 @@ button{
 
     cursor:pointer;
 }
+
+/* =========================
+        HERO SECTION
+========================= */
+
+.hero{
+
+    max-width:900px;
+
+    margin:70px auto;
+
+    padding:30px;
+
+    text-align:center;
+}
+
+.hero h1{
+
+    font-size:58px;
+
+    font-weight:700;
+
+    letter-spacing:-2px;
+
+    color:#111827;
+
+    margin-bottom:18px;
+}
+
+.hero p{
+
+    font-size:19px;
+
+    color:#6B7280;
+
+    margin-bottom:55px;
+
+    line-height:1.8;
+}
+
+/* =========================
+        HERO BLOCKS
+========================= */
+
+.hero-block{
+
+    margin-top:40px;
+
+    animation:fadeUp .5s ease;
+}
+
+.hero-block h3{
+
+    font-size:22px;
+
+    margin-bottom:22px;
+
+    color:#111827;
+}
+
+/* =========================
+        BUTTON GROUPS
+========================= */
+
+.year-buttons,
+.semester-buttons,
+.subject-buttons{
+
+    display:flex;
+
+    justify-content:center;
+
+    flex-wrap:wrap;
+
+    gap:15px;
+}
+
+/* =========================
+        BUTTONS
+========================= */
+
+.year-btn,
+.semester-btn,
+.subject-btn{
+
+    padding:14px 28px;
+
+    border-radius:999px;
+
+    border:1px solid #E5E7EB;
+
+    background:white;
+
+    color:#111827;
+
+    font-size:16px;
+
+    font-weight:500;
+
+    cursor:pointer;
+
+    transition:all .3s ease;
+}
+
+.year-btn:hover,
+.semester-btn:hover,
+.subject-btn:hover{
+
+    transform:translateY(-3px);
+
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+}
+
+.year-btn.active,
+.semester-btn.active,
+.subject-btn.active{
+
+    background:#111827;
+
+    color:white;
+
+    border-color:#111827;
+}
+
+/* =========================
+        SEARCH
+========================= */
+
+.search-box{
+
+    max-width:700px;
+
+    margin:0 auto;
+
+    display:flex;
+
+    align-items:center;
+
+    gap:15px;
+
+    padding:18px 22px;
+
+    border-radius:20px;
+
+    background:white;
+
+    border:1px solid #E5E7EB;
+
+    transition:.3s;
+}
+
+.search-box:focus-within{
+
+    border-color:#111827;
+
+    box-shadow:0 0 0 5px rgba(17,24,39,.08);
+}
+
+.search-box input{
+
+    flex:1;
+
+    border:none;
+
+    outline:none;
+
+    background:transparent;
+
+    font-size:17px;
+}
+
+/* =========================
+        HIDDEN
+========================= */
+
+.hidden{
+
+    display:none;
+}
+
+/* =========================
+        ANIMATION
+========================= */
+
+@keyframes fadeUp{
+
+    from{
+
+        opacity:0;
+
+        transform:translateY(25px);
+
+    }
+
+    to{
+
+        opacity:1;
+
+        transform:translateY(0);
+
+    }
+}

@@ -71,22 +71,123 @@
             <!-- Profile -->
             <div class="profile">
 
-                <div class="circle">
-                    <span class="circle-inner">DC</span>
-                </div>
+    <div class="circle">
+        <span class="circle-inner">DC</span>
+    </div>
 
+    <div class="profile-menu">
+
+        <div class="profile-header">
+            <div class="profile-avatar">DC</div>
+
+            <div class="profile-info">
+                <h4>Dhanushi Chaurasia</h4>
+                <p>dhanushi@email.com</p>
+                <span>FY BSc Computer Science</span>
             </div>
+        </div>
+
+        <hr>
+
+        <button class="menu-btn logout">
+            Logout
+        </button>
+
+        <button class="menu-btn delete">
+            Delete Account
+        </button>
+
+    </div>
+
+</div>
+
+
+        </div> </header>
+<!-- ================= HERO SECTION ================= -->
+
+<!-- ================= HERO SECTION ================= -->
+
+<section class="hero">
+
+    <h1>Find Previous Year Questions in Seconds.</h1>
+
+    <p>
+        Choose your year, semester and subject to quickly access previous year papers.
+    </p>
+
+    <!-- YEAR -->
+
+    <div class="hero-block">
+
+        <h3>Choose Your Year</h3>
+
+        <div class="year-buttons">
+
+            <button class="year-btn" data-year="FY">FY</button>
+
+            <button class="year-btn" data-year="SY">SY</button>
+
+            <button class="year-btn" data-year="TY">TY</button>
 
         </div>
 
-    </header>
+    </div>
+
+    <!-- SEMESTER -->
+
+    <div class="hero-block hidden" id="semester-section">
+
+        <h3>Choose Semester</h3>
+
+        <div class="semester-buttons">
+
+        </div>
+
+    </div>
+
+    <!-- SUBJECT -->
+
+    <div class="hero-block hidden" id="subject-section">
+
+        <h3>Choose Subject</h3>
+
+        <div class="subject-buttons">
+
+        </div>
+
+    </div>
+
+    <!-- SEARCH -->
+
+    <div class="hero-block hidden" id="search-section">
+
+        <h3>Search Topic</h3>
+
+        <div class="search-box">
+
+            <span>🔍</span>
+
+            <input
+                type="text"
+                placeholder="Search Topic..."
+            >
+
+        </div>
+
+    </div>
+
+</section>
+
+
+        
+   
 
     <!-- Rest of website will come here -->
 
     <script src="../js/script.js"></script>
     <script src="../js/navbar.js"></script>
     <script src="../js/darkmode.js"></script>
-
+<script src="../js/search.js"></script>
 </body>
 
 </html>
