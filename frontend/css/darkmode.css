@@ -233,7 +233,9 @@
 body {
   background-color: #f8f9fa;
   color: #1a1a1a;
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition:
+    background-color .35s ease,
+    color .35s ease;
 }
 
 /* Dark Mode Styles */
@@ -290,4 +292,77 @@ body.dark-theme .nav-links a::after {
 
 body.dark-theme .logo img {
   border-color: rgba(255, 255, 255, 0.15);
+}
+
+ke it
+
+body{
+    transition:
+    background-color .35s ease,
+    color .35s ease;
+}
+
+.navbar,
+.circle,
+.nav-links a,
+.logo h2{
+    transition: .35s ease;
+}
+
+/* =========================
+   DARK MODE NAVBAR OVERRIDES
+========================= */
+
+body.dark-theme header,
+body.dark-theme .navbar {
+  background: rgba(20, 20, 20, 0.72) !important;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* Profile Dropdown */
+
+body.dark-theme .profile-dropdown{
+
+    background:rgba(25,25,25,.82);
+
+    border:1px solid rgba(255,255,255,.08);
+}
+
+body.dark-theme .profile-dropdown h4{
+
+    color:white;
+}
+
+body.dark-theme .profile-dropdown p{
+
+    color:#bdbdbd;
+}
+
+body.dark-theme .profile-dropdown hr{
+
+    background:#333;
+}
+
+body.dark-theme .logout-btn{
+
+    background:#2c2c2c;
+}
+
+body.dark-theme .logout-btn:hover{
+
+    background:#3a3a3a;
+}
+
+body.dark-theme .delete-btn{
+
+    background:#472626;
+
+    color:#ffb4b4;
+}
+
+body.dark-theme .delete-btn:hover{
+
+    background:#5d3030;
 }
