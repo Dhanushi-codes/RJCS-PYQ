@@ -1,264 +1,697 @@
-/* =========================
-        GLOBAL STYLES
-========================= */
-
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
+/* ========================= GLOBAL STYLES ========================= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-html{
-    scroll-behavior:smooth;
+html {
+  scroll-behavior: smooth;
 }
 
-body{
-
-    font-family: "Inter", "Segoe UI", sans-serif;
-
-    background:#F5F5F7;
-
-    color:#111827;
-
-    padding-top:90px;
-
-    overflow-x:hidden;
+body {
+  font-family: "Inter", "Segoe UI", sans-serif;
+  background: #F5F5F7;
+  color: #111827;
+  padding-top: 72px;
+  overflow-x: hidden;
 }
 
-/* Selection */
-
-::selection{
-
-    background:#111827;
-
-    color:white;
+/* ========================= LINKS / BUTTONS ========================= */
+a {
+  text-decoration: none;
+  color: inherit;
 }
 
-/* Links */
-
-a{
-
-    text-decoration:none;
-
-    color:inherit;
+button {
+  font-family: inherit;
+  cursor: pointer;
 }
 
-/* Images */
-
-img{
-
-    max-width:100%;
-
-    display:block;
+img {
+  max-width: 100%;
+  display: block;
 }
 
-/* Buttons */
-
-button{
-
-    font-family:inherit;
-
-    cursor:pointer;
+::selection {
+  background: #111827;
+  color: white;
 }
 
-/* =========================
-        HERO SECTION
-========================= */
-
-.hero{
-
-    max-width:900px;
-
-    margin:70px auto;
-
-    padding:30px;
-
-    text-align:center;
+/* ========================= HERO SECTION ========================= */
+.hero {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 56px 32px 96px;
 }
 
-.hero h1{
-
-    font-size:58px;
-
-    font-weight:700;
-
-    letter-spacing:-2px;
-
-    color:#111827;
-
-    margin-bottom:18px;
+/* ========================= MAIN HEADING ========================= */
+.hero h1 {
+  width: 100%;
+  font-size: clamp(42px, 4.5vw, 64px);
+  font-weight: 750;
+  letter-spacing: -2.5px;
+  line-height: 1.05;
+  color: #111827;
+  margin-bottom: 16px;
+  text-align: center;
+  white-space: nowrap;
 }
 
-.hero p{
-
-    font-size:19px;
-
-    color:#6B7280;
-
-    margin-bottom:55px;
-
-    line-height:1.8;
+.hero > p {
+  width: 100%;
+  text-align: center;
+  font-size: 17px;
+  color: #6B7280;
+  margin-bottom: 48px;
 }
 
-/* =========================
-        HERO BLOCKS
-========================= */
-
-.hero-block{
-
-    margin-top:40px;
-
-    animation:fadeUp .5s ease;
+/* ========================= TWO COLUMN LAYOUT ========================= */
+.hero-layout { 
+  display: grid; 
+  grid-template-columns: minmax(0, 1fr) 600px; 
+  gap: 40px; 
+  align-items: start; 
 }
 
-.hero-block h3{
-
-    font-size:22px;
-
-    margin-bottom:22px;
-
-    color:#111827;
+/* ========================= LEFT PANEL & SELECTION AREA ========================= */
+.selection-panel {
+  width: 100%;
 }
 
-/* =========================
-        BUTTON GROUPS
-========================= */
+.selection-area {
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ========================= YEAR + SEMESTER ROW ========================= */
+.year-semester-row {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 120px;
+  margin-bottom: 40px;
+}
+
+/* ========================= YEAR / SEMESTER BLOCKS ========================= */
+.year-block,
+.semester-block {
+  margin-top: 0;
+  min-width: 200px;
+  text-align: center;
+}
+
+.year-block h3,
+.semester-block h3 {
+  font-size: 20px;
+  font-weight: 650;
+  color: #111827;
+  margin-bottom: 16px;
+  text-align: center;
+}
 
 .year-buttons,
-.semester-buttons,
-.subject-buttons{
-
-    display:flex;
-
-    justify-content:center;
-
-    flex-wrap:wrap;
-
-    gap:15px;
+.semester-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
 }
 
-/* =========================
-        BUTTONS
-========================= */
-
+/* ========================= BUTTONS ========================= */
 .year-btn,
 .semester-btn,
-.subject-btn{
-
-    padding:14px 28px;
-
-    border-radius:999px;
-
-    border:1px solid #E5E7EB;
-
-    background:white;
-
-    color:#111827;
-
-    font-size:16px;
-
-    font-weight:500;
-
-    cursor:pointer;
-
-    transition:all .3s ease;
+.subject-btn {
+  padding: 13px 25px;
+  border-radius: 999px;
+  border: 1px solid #E5E7EB;
+  background: #ffffff;
+  color: #111827;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all .25s ease;
 }
 
+/* Hover */
 .year-btn:hover,
 .semester-btn:hover,
-.subject-btn:hover{
-
-    transform:translateY(-3px);
-
-    box-shadow:0 10px 25px rgba(0,0,0,.08);
+.subject-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0,0,0,.08);
 }
 
+/* Active */
 .year-btn.active,
 .semester-btn.active,
-.subject-btn.active{
-
-    background:#111827;
-
-    color:white;
-
-    border-color:#111827;
+.subject-btn.active {
+  background: #111827;
+  color: #ffffff;
+  border-color: #111827;
 }
 
-/* =========================
-        SEARCH
-========================= */
-
-.search-box{
-
-    max-width:700px;
-
-    margin:0 auto;
-
-    display:flex;
-
-    align-items:center;
-
-    gap:15px;
-
-    padding:18px 22px;
-
-    border-radius:20px;
-
-    background:white;
-
-    border:1px solid #E5E7EB;
-
-    transition:.3s;
+/* ========================= SUBJECT & SEARCH TOPIC ========================= */
+.subject-block,
+#search-section {
+  width: 100%;
+  max-width: 600px;
+  margin-top: 45px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.search-box:focus-within{
-
-    border-color:#111827;
-
-    box-shadow:0 0 0 5px rgba(17,24,39,.08);
+.subject-block h3,
+#search-section h3 {
+  font-size: 22px;
+  font-weight: 650;
+  color: #111827;
+  margin-bottom: 22px;
+  text-align: center;
 }
 
-.search-box input{
-
-    flex:1;
-
-    border:none;
-
-    outline:none;
-
-    background:transparent;
-
-    font-size:17px;
+.subject-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
 }
 
-/* =========================
-        HIDDEN
-========================= */
-
-.hidden{
-
-    display:none;
+/* ========================= EXAM TIPS ========================= */
+.exam-tips {
+  width: 100%;
+  padding: 32px 28px;
+  border: 1px solid #E5E7EB;
+  border-radius: 24px;
+  background: #ffffff;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.05);
 }
 
-/* =========================
-        ANIMATION
-========================= */
+.exam-tips h3 {
+  font-size: 28px;
+  font-weight: 750;
+  margin-bottom: 24px;
+  color: #111827;
+  letter-spacing: -0.5px;
+}
 
-@keyframes fadeUp{
+.tip {
+  display: flex;
+  align-items: flex-start;
+  gap: 18px;
+  padding: 18px 0;
+  border-bottom: 1px solid #F0F0F0;
+  cursor: pointer;
+}
 
-    from{
+.tip:last-child {
+  border-bottom: none;
+}
 
-        opacity:0;
+.tip span {
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: #111827;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+}
 
-        transform:translateY(25px);
+.tip-content {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
 
-    }
+/* Tip Title with Center-to-Ends Underline Effect */
+.tip-title,
+.tip h3,
+.tip h4 {
+  position: relative;
+  display: inline-block;
+  font-size: 17px;
+  font-weight: 650;
+  color: #111827;
+  width: fit-content;
+}
 
-    to{
+/* Underline Animation Setup */
+.tip-title::after,
+.tip h3::after,
+.tip h4::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: -2px;
+  left: 0;
+  background-color: #111827;
+  transform: scaleX(0);
+  transform-origin: center;
+  transition: transform 0.3s ease-in-out;
+}
 
-        opacity:1;
+/* Expand underline on hover */
+.tip:hover .tip-title::after,
+.tip:hover h3::after,
+.tip:hover h4::after {
+  transform: scaleX(1);
+}
 
-        transform:translateY(0);
+.tip p {
+  margin-top: 4px;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #4B5563;
+}
 
-    }
+/* ========================= PYQ EXPANDING SEARCH ========================= */
+
+#search-section {
+  width: 100%;
+  max-width: 700px;
+
+  /* THIS IS IMPORTANT */
+  margin: 45px auto 0;
+
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#poda {
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  gap: 14px;
+
+  margin-top: 20px;
+}
+
+
+/* ========================= SEARCH BOX ========================= */
+
+.search-box {
+  position: relative;
+
+  display: inline-flex;
+  align-items: center;
+
+  width: 55px;
+  height: 55px;
+
+  border: 2px solid #111827;
+  border-radius: 999px;
+
+  background: #ffffff;
+
+  overflow: hidden;
+
+  transition:
+    width 800ms cubic-bezier(0.68, -0.55, 0.27, 1.55),
+    box-shadow 0.3s ease,
+    border-color 0.3s ease;
+}
+
+
+/* ========================= SEARCH INPUT ========================= */
+
+.search-box input {
+  width: 55px;
+  height: 55px;
+
+  padding: 0 48px 0 48px;
+
+  border: none;
+  outline: none;
+
+  border-radius: 999px;
+
+  background: transparent;
+
+  color: #111827;
+
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 500;
+
+  transition:
+    width 800ms cubic-bezier(0.68, -0.55, 0.27, 1.55);
+}
+
+
+/* Placeholder hidden when collapsed */
+
+.search-box input::placeholder {
+  color: transparent;
+
+  transition:
+    color 0.25s ease 0.55s;
+}
+
+
+/* ========================= EXPANDED ========================= */
+
+.search-box.expanded {
+  width: min(700px, 100%);
+
+  box-shadow:
+    0 0 0 5px rgba(17, 24, 39, 0.06),
+    0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.search-box.expanded input {
+  width: 100%;
+}
+
+.search-box.expanded input::placeholder {
+  color: #9ca3af;
+}
+
+
+/* ========================= SEARCH ICON ========================= */
+
+.search-box::before {
+  content: "";
+
+  position: absolute;
+
+  width: 13px;
+  height: 13px;
+
+  border: 2px solid #111827;
+  border-radius: 50%;
+
+  left: 17px;
+  top: 17px;
+
+  pointer-events: none;
+
+  transition:
+    opacity 150ms ease,
+    transform 150ms ease;
+}
+
+.search-box::after {
+  content: "";
+
+  position: absolute;
+
+  width: 7px;
+  height: 2px;
+
+  background: #111827;
+
+  border-radius: 2px;
+
+  left: 29px;
+  top: 31px;
+
+  transform: rotate(45deg);
+
+  pointer-events: none;
+
+  transition:
+    opacity 150ms ease,
+    transform 150ms ease;
+}
+
+
+/* Hide search icon when expanded */
+
+.search-box.expanded::before {
+  opacity: 0;
+
+  transform: scale(0.6);
+}
+
+.search-box.expanded::after {
+  opacity: 0;
+
+  transform: rotate(45deg) scale(0.6);
+}
+
+
+/* ========================= CROSS ========================= */
+
+.search-reset {
+  position: absolute;
+
+  right: 17px;
+  top: 50%;
+
+  width: 20px;
+  height: 20px;
+
+  transform: translateY(-50%) rotate(45deg);
+
+  border: none;
+
+  background: transparent;
+
+  padding: 0;
+
+  cursor: pointer;
+
+  opacity: 0;
+
+  pointer-events: none;
+
+  transition:
+    opacity 0.2s ease,
+    transform 0.2s ease;
+}
+
+
+/* Vertical */
+
+.search-reset::before {
+  content: "";
+
+  position: absolute;
+
+  width: 2px;
+  height: 17px;
+
+  background: #111827;
+
+  left: 9px;
+  top: 2px;
+
+  border-radius: 2px;
+}
+
+
+/* Horizontal */
+
+.search-reset::after {
+  content: "";
+
+  position: absolute;
+
+  width: 17px;
+  height: 2px;
+
+  background: #111827;
+
+  left: 2px;
+  top: 9px;
+
+  border-radius: 2px;
+}
+
+
+/* Show cross after typing */
+
+.search-box.has-text .search-reset {
+  opacity: 1;
+
+  pointer-events: auto;
+}
+
+
+/* Slight hover */
+
+.search-reset:hover {
+  transform: translateY(-50%) rotate(45deg) scale(1.12);
+}
+
+
+/* ========================= GO ARROW ========================= */
+
+.arrow {
+  position: relative;
+
+  flex-shrink: 0;
+
+  width: 34px;
+  height: 34px;
+
+  padding: 0;
+
+  border: none;
+
+  background: transparent;
+
+  cursor: pointer;
+
+  display: none;
+
+  transition:
+    transform 0.2s ease,
+    opacity 0.2s ease;
+}
+
+
+/* Arrow only appears when text exists */
+
+#poda.has-search .arrow {
+  display: block;
+}
+
+
+/* Arrow shaft */
+
+.arrow::after {
+  content: "";
+
+  position: absolute;
+
+  width: 23px;
+  height: 2px;
+
+  background: #111827;
+
+  left: 5px;
+  top: 16px;
+
+  border-radius: 2px;
+}
+
+
+/* Arrow head */
+
+.arrow::before {
+  content: "";
+
+  position: absolute;
+
+  width: 9px;
+  height: 9px;
+
+  border-top: 2px solid #111827;
+  border-right: 2px solid #111827;
+
+  right: 5px;
+  top: 11px;
+
+  transform: rotate(45deg);
+}
+
+
+/* Stable arrow — no crazy animation */
+
+.arrow:hover {
+  transform: translateX(3px);
+}
+
+
+/* ========================= SEARCH INSTRUCTION ========================= */
+
+.search-box.expanded input::placeholder {
+  color: #9ca3af;
+}
+
+
+/* ========================= MOBILE ========================= */
+
+@media (max-width: 700px) {
+
+  #search-section {
+    width: 100%;
+    padding: 0 15px;
+  }
+
+  #poda {
+    width: 100%;
+  }
+
+  .search-box.expanded {
+    width: 100%;
+  }
+
+  .search-box.expanded input {
+    width: 100%;
+  }
+
+}
+
+/* ================= ANIMATION ========================= */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ================= RESPONSIVE ========================= */
+@media (max-width: 900px) {
+  .hero {
+    padding: 55px 25px 100px;
+  }
+
+  .hero h1 {
+    white-space: normal;
+    font-size: 45px;
+  }
+
+  .hero-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .exam-tips {
+    order: 2;
+  }
+
+  .selection-panel {
+    order: 1;
+  }
+}
+
+@media (max-width: 700px) {
+  .year-semester-row {
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+  }
+
+  #poda {
+    width: 100%;
+    padding: 0 15px;
+  }
+
+  .search-box.expanded {
+    width: 100%;
+  }
 }
