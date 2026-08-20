@@ -366,3 +366,101 @@ body.dark-theme .delete-btn:hover{
 
     background:#5d3030;
 }
+
+body.dark .hero{
+    background:#111827;
+    color:white;
+}
+
+body.dark .search-input{
+    background:#0f172a;
+    color:white;
+}
+
+body.dark .hero{
+    background:#111827;
+}
+
+body.dark .hero h1,
+body.dark .hero h2,
+body.dark .hero h3{
+    color:#f9fafb;
+}
+
+body.dark .hero p{
+    color:#cbd5e1;
+}
+
+body.dark .year-btn,
+body.dark .semester-btn,
+body.dark .subject-btn{
+
+    background:#1f2937;
+    color:#f9fafb;
+    border:1px solid #374151;
+
+}
+
+body.dark .year-btn:hover,
+body.dark .semester-btn:hover,
+body.dark .subject-btn:hover{
+
+    background:#374151;
+
+}
+
+body.dark .year-btn.active,
+body.dark .semester-btn.active,
+body.dark .subject-btn.active{
+
+    background:#3b82f6;
+    color:white;
+    border-color:#3b82f6;
+
+}
+
+body.dark .search-input{
+
+    background:#1f2937;
+    color:white;
+
+}
+
+body.dark .search-input::placeholder{
+
+    color:#94a3b8;
+
+}
+
+body.dark .navbar{
+
+    background:#0f172a;
+    border-bottom:1px solid #1e293b;
+
+}
+
+body.dark .nav-links a{
+
+    color:#f8fafc;
+
+}
+
+body.dark .logo h2{
+
+    color:white;
+
+}
+
+body.dark .circle{
+
+    background:#f8fafc;
+    color:#111827;
+
+}
+
+body.dark{
+
+    background:#111827;
+    color:white;
+
+}
