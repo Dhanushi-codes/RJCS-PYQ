@@ -2,192 +2,211 @@
 <html lang="en">
 
 <head>
-
     <meta charset="UTF-8">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <title>RJCS PYQ</title>
 
     <link rel="stylesheet" href="../css/style.css">
-<link rel="stylesheet" href="../css/navbar.css">
-<link rel="stylesheet" href="../css/darkmode.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/darkmode.css">
 </head>
 
 <body>
 
     <!-- ================= NAVBAR ================= -->
-
-    
-        <header class="navbar">
+    <header class="navbar">
 
         <!-- Left Side -->
         <div class="logo">
-
             <img src="../images/logo.png" alt="RJCS Logo">
-
             <h2>RJCS PYQ</h2>
-
         </div>
 
         <!-- Center -->
         <nav>
-    <ul class="nav-links">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Contact</a></li>
-    </ul>
-</nav>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
 
         <!-- Right Side -->
         <div class="nav-right">
 
             <!-- Theme Toggle -->
             <div class="toggleWrapper">
+                <input class="input" id="darkmode-toggle" type="checkbox">
+                <label class="toggle" for="darkmode-toggle">
+                    <span class="toggle__handler">
+                        <span class="crater crater--1"></span>
+                        <span class="crater crater--2"></span>
+                        <span class="crater crater--3"></span>
+                    </span>
 
-    <input class="input" id="darkmode-toggle" type="checkbox">
-
-    <label class="toggle" for="darkmode-toggle">
-
-        <span class="toggle__handler">
-
-            <span class="crater crater--1"></span>
-            <span class="crater crater--2"></span>
-            <span class="crater crater--3"></span>
-
-        </span>
-
-        <span class="star star--1"></span>
-        <span class="star star--2"></span>
-        <span class="star star--3"></span>
-        <span class="star star--4"></span>
-        <span class="star star--5"></span>
-        <span class="star star--6"></span>
-
-    </label>
-
-</div>
+                    <span class="star star--1"></span>
+                    <span class="star star--2"></span>
+                    <span class="star star--3"></span>
+                    <span class="star star--4"></span>
+                    <span class="star star--5"></span>
+                    <span class="star star--6"></span>
+                </label>
+            </div>
 
             <!-- Profile -->
             <div class="profile">
+                <div class="circle">
+                    <span class="circle-inner">DC</span>
+                </div>
 
-    <div class="circle">
-        <span class="circle-inner">DC</span>
-    </div>
-
-    <div class="profile-menu">
-
-        <div class="profile-header">
-            <div class="profile-avatar">DC</div>
-
-            <div class="profile-info">
-                <h4>Dhanushi Chaurasia</h4>
-                <p>dhanushi@email.com</p>
-                <span>FY BSc Computer Science</span>
+                <div class="profile-menu">
+                    <div class="profile-header">
+                        <div class="profile-avatar">DC</div>
+                        <div class="profile-info">
+                            <h4>Dhanushi Chaurasia</h4>
+                            <p>dhanushi@email.com</p>
+                            <span>FY BSc Computer Science</span>
+                        </div>
+                    </div>
+                    <hr>
+                    <button class="menu-btn logout">Logout</button>
+                    <button class="menu-btn delete">Delete Account</button>
+                </div>
             </div>
+
+        </div> 
+    </header>
+
+    <!-- ================= HERO SECTION ================= -->
+    <section class="hero">
+
+        <!-- MAIN HEADING -->
+        <h1>Find Previous Year Questions in Seconds.</h1>
+
+        <p>
+            Choose your year, semester and subject to quickly access previous year papers.
+        </p>
+
+        <!-- ================= MAIN CONTENT ================= -->
+        <div class="hero-layout">
+
+            <!-- ================= LEFT SIDE ================= -->
+            <div class="selection-panel">
+
+                <!-- ================= SELECTION AREA ================= -->
+                <div class="selection-area">
+
+                    <!-- YEAR + SEMESTER ROW -->
+                    <div class="year-semester-row">
+
+                        <!-- YEAR -->
+                        <div class="hero-block year-block">
+                            <h3>Choose Your Year</h3>
+                            <div class="year-buttons">
+                                <button class="year-btn" data-year="FY">FY</button>
+                                <button class="year-btn" data-year="SY">SY</button>
+                                <button class="year-btn" data-year="TY">TY</button>
+                            </div>
+                        </div>
+
+                        <!-- SEMESTER -->
+                        <div class="hero-block semester-block hidden" id="semester-section">
+                            <h3>Choose Semester</h3>
+                            <div class="semester-buttons">
+                                <!-- JS will add semester buttons here -->
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- SUBJECT -->
+                    <div class="hero-block subject-block hidden" id="subject-section">
+                        <h3>Choose Subject</h3>
+                        <div class="subject-buttons">
+                            <!-- JS will add subject buttons here -->
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- ================= RIGHT SIDE ================= -->
+            <aside class="exam-tips">
+                <h3>Exam Tips</h3>
+
+                <div class="tip">
+                    <span>01</span>
+                    <div class="tip-content">
+                        <h4 class="tip-title">High Frequency Topics</h4>
+                        <p>Start with the topics that appear most frequently in previous exams.</p>
+                    </div>
+                </div>
+
+                <div class="tip">
+                    <span>02</span>
+                    <div class="tip-content">
+                        <h4 class="tip-title">Practice Papers</h4>
+                        <p>Practise previous year questions under timed conditions before your exam.</p>
+                    </div>
+                </div>
+
+                <div class="tip">
+                    <span>03</span>
+                    <div class="tip-content">
+                        <h4 class="tip-title">Repeat Questions</h4>
+                        <p>Focus heavily on questions that repeat across multiple years.</p>
+                    </div>
+                </div>
+
+            </aside>
+
         </div>
 
-        <hr>
+        <!-- ================= SEARCH TOPIC ================= -->
+        <div class="hero-block hidden" id="search-section">
 
-        <button class="menu-btn logout">
-            Logout
-        </button>
+            <h3>Search Topic</h3>
 
-        <button class="menu-btn delete">
-            Delete Account
-        </button>
+            <div id="poda">
 
-    </div>
+                <form class="search-box" id="search-form">
 
-</div>
+                    <input
+                        type="text"
+                        id="topic-search"
+                        placeholder="Search PYQ Topics..."
+                        autocomplete="off"
+                    >
 
+                    <button
+                        type="button"
+                        class="search-reset"
+                        id="search-reset"
+                        aria-label="Clear search"
+                    ></button>
 
-        </div> </header>
-<!-- ================= HERO SECTION ================= -->
+                </form>
 
-<!-- ================= HERO SECTION ================= -->
+                <!-- GO ARROW -->
+                <button
+                    type="button"
+                    class="arrow"
+                    id="search-go"
+                    aria-label="Search"
+                ></button>
 
-<section class="hero">
-
-    <h1>Find Previous Year Questions in Seconds.</h1>
-
-    <p>
-        Choose your year, semester and subject to quickly access previous year papers.
-    </p>
-
-    <!-- YEAR -->
-
-    <div class="hero-block">
-
-        <h3>Choose Your Year</h3>
-
-        <div class="year-buttons">
-
-            <button class="year-btn" data-year="FY">FY</button>
-
-            <button class="year-btn" data-year="SY">SY</button>
-
-            <button class="year-btn" data-year="TY">TY</button>
+            </div>
 
         </div>
 
-    </div>
+    </section>
 
-    <!-- SEMESTER -->
-
-    <div class="hero-block hidden" id="semester-section">
-
-        <h3>Choose Semester</h3>
-
-        <div class="semester-buttons">
-
-        </div>
-
-    </div>
-
-    <!-- SUBJECT -->
-
-    <div class="hero-block hidden" id="subject-section">
-
-        <h3>Choose Subject</h3>
-
-        <div class="subject-buttons">
-
-        </div>
-
-    </div>
-
-    <!-- SEARCH -->
-
-    <div class="hero-block hidden" id="search-section">
-
-        <h3>Search Topic</h3>
-
-        <div class="search-box">
-
-            <span>🔍</span>
-
-            <input
-                type="text"
-                placeholder="Search Topic..."
-            >
-
-        </div>
-
-    </div>
-
-</section>
-
-
-        
-   
-
-    <!-- Rest of website will come here -->
-
+    <!-- Scripts -->
     <script src="../js/script.js"></script>
     <script src="../js/navbar.js"></script>
     <script src="../js/darkmode.js"></script>
-<script src="../js/search.js"></script>
+    <script src="../js/search.js"></script>
 </body>
 
 </html>
