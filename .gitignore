@@ -1,27 +1,21 @@
-
 # Python
 __pycache__/
 *.py[cod]
-*.pyo
-venv/
+*$py.class
+*.env
 .venv/
 env/
+venv/
 
-# Google credentials - NEVER UPLOAD
-backend/credentials.json
-backend/token.json
-.env
-.env.*
+# Project persistence
+data/database/*.db
+data/database/*.db-journal
 
-# Raw question paper PDFs
-dataset/raw/
-*.pdf
+# Raw documents (prevent committing large PDFs to git)
+data/raw_papers/*.pdf
+data/source_materials/*.pdf
 
-# Large demo videos
-*.mp4
-
-# Editor files
-.vscode/
+# System & IDE
 .DS_Store
-Thumbs.db
-*.log
+.idea/
+.vscode/
