@@ -6,10 +6,10 @@ document.addEventListener('DOMContentLoaded', () => {
   // 1. Function to apply theme
   const applyTheme = (isDark) => {
     if (isDark) {
-      document.body.classList.add('dark-theme');
+      document.body.classList.add('dark-theme', 'dark');
       toggleInput.checked = true;
     } else {
-      document.body.classList.remove('dark-theme');
+      document.body.classList.remove('dark-theme', 'dark');
       toggleInput.checked = false;
     }
   };

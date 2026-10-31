@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Login | RJCS PYQ</title>
+
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/darkmode.css">
+
+    <style>
+        body {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            background: #F5F5F7;
+        }
+
+        .login-wrapper {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 60px 20px;
+        }
+
+        .login-card {
+            width: 100%;
+            max-width: 430px;
+            background: #ffffff;
+            border: 1px solid #E5E7EB;
+            border-radius: 24px;
+            padding: 42px 38px;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.07);
+        }
+
+        .login-logo {
+            width: 64px;
+            height: 64px;
+            margin: 0 auto 20px;
+            border-radius: 18px;
+            background: #111827;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #ffffff;
+            font-size: 22px;
+            font-weight: 700;
+        }
+
+        .login-card h1 {
+            text-align: center;
+            font-size: 32px;
+            font-weight: 750;
+            color: #111827;
+            letter-spacing: -1px;
+            margin-bottom: 8px;
+        }
+
+        .login-subtitle {
+            text-align: center;
+            color: #6B7280;
+            font-size: 15px;
+            margin-bottom: 32px;
+        }
+
+        .login-form {
+            display: flex;
+            flex-direction: column;
+            gap: 18px;
+        }
+
+        .input-group {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .input-group label {
+            font-size: 14px;
+            font-weight: 600;
+            color: #111827;
+        }
+
+        .input-group input {
+            width: 100%;
+            height: 50px;
+            padding: 0 15px;
+            border: 1px solid #D1D5DB;
+            border-radius: 12px;
+            outline: none;
+            background: #ffffff;
+            color: #111827;
+            font-family: inherit;
+            font-size: 15px;
+            transition: 0.2s ease;
+            box-sizing: border-box;
+        }
+
+        .input-group input:focus {
+            border-color: #111827;
+            box-shadow: 0 0 0 4px rgba(17, 24, 39, 0.06);
+        }
+
+        .login-button {
+            width: 100%;
+            height: 50px;
+            margin-top: 8px;
+            border: none;
+            border-radius: 999px;
+            background: #111827;
+            color: #ffffff;
+            font-family: inherit;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: 0.25s ease;
+        }
+
+        .login-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        .login-message {
+            min-height: 20px;
+            margin-top: 14px;
+            text-align: center;
+            font-size: 14px;
+            color: #6B7280;
+        }
+
+        .back-home {
+            display: block;
+            margin-top: 22px;
+            text-align: center;
+            font-size: 14px;
+            color: #6B7280;
+            text-decoration: none;
+        }
+
+        .back-home:hover {
+            color: #111827;
+        }
+
+        @media (max-width: 500px) {
+            .login-card {
+                padding: 32px 24px;
+            }
+
+            .login-card h1 {
+                font-size: 28px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="login-wrapper">
+
+        <div class="login-card">
+
+            <div class="login-logo">
+                RJ
+            </div>
+
+            <h1>Welcome</h1>
+
+            <p class="login-subtitle">
+                Sign in to continue to RJCS-PYQ
+            </p>
+
+            <!-- Login Form -->
+            <form class="login-form" id="login-form">
+
+                <!-- Full Name -->
+                <div class="input-group">
+                    <label for="name">Full Name</label>
+
+                    <input
+                        type="text"
+                        id="name"
+                        placeholder="Enter your full name"
+                        required
+                    >
+                </div>
+
+                <!-- Class -->
+                <div class="input-group">
+                    <label for="class">Class</label>
+
+                    <input
+                        type="text"
+                        id="class"
+                        placeholder="e.g. SY BSc Computer Science"
+                        required
+                    >
+                </div>
+
+                <!-- Email -->
+                <div class="input-group">
+                    <label for="email">Email</label>
+
+                    <input
+                        type="email"
+                        id="email"
+                        placeholder="Enter your email"
+                        required
+                    >
+                </div>
+
+                <!-- Password -->
+                <div class="input-group">
+                    <label for="password">Password</label>
+
+                    <input
+                        type="password"
+                        id="password"
+                        placeholder="Enter your password"
+                        required
+                    >
+                </div>
+
+                <!-- Login Button -->
+                <button
+                    type="submit"
+                    class="login-button"
+                >
+                    Login
+                </button>
+
+            </form>
+
+            <!-- Login Message -->
+            <div
+                class="login-message"
+                id="login-message">
+            </div>
+
+            <!-- Continue Without Login -->
+            <a href="index.html" class="back-home">
+                ← Continue without login
+            </a>
+
+        </div>
+
+    </div>
+
+
+    <script>
+
+        const loginForm = document.getElementById("login-form");
+        const loginMessage = document.getElementById("login-message");
+
+        loginForm.addEventListener("submit", function (event) {
+
+            event.preventDefault();
+
+            // Get user information
+            const name = document.getElementById("name").value.trim();
+            const studentClass = document.getElementById("class").value.trim();
+            const email = document.getElementById("email").value.trim();
+            const password = document.getElementById("password").value.trim();
+
+            // Check all fields
+            if (!name || !studentClass || !email || !password) {
+
+                loginMessage.textContent =
+                    "Please fill in all the fields.";
+
+                return;
+            }
+
+            // Store user information
+            localStorage.setItem("userName", name);
+            localStorage.setItem("userClass", studentClass);
+            localStorage.setItem("userEmail", email);
+
+            // Show success message
+            loginMessage.textContent =
+                "Login successful. Redirecting...";
+
+            // Redirect to homepage
+            setTimeout(function () {
+                window.location.href = "index.html";
+            }, 500);
+
+        });
+
+    </script>
+
+</body>
+
+</html>
