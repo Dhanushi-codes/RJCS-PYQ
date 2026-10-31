@@ -1,0 +1,716 @@
+[
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "Describe Unordered List in html with example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "Describe various Text Formatting tags in html",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "Explain following Elements in Html. <h2>, <p>, <div>, <br>, <span>",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "Demonstrate <img> tag in html.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "Demonstrate CSS id selector and class selector with example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "Define let, var JavaScript variables with example",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "Describe the concept of External CSS in detail.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "Describe Windows History Object in javascript.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Describe Advantages and Disadvantages of XML.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "Describe importance of AJAX in web development.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Describe XMLHttpRequest Object Methods in detail.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "List and Explain various Arithmetic Operators in php.",
+    "marks": 5
+  },
+
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Linear Algebra",
+    "exam_type": "ATKT",
+    "question_number": "Q1(a)",
+    "question": "Do as directed – i. Find the dot product of given pair of vectors. a = (1, 2) and b = (3, 4) ii. Sketch the following position vectors. OA = (5, 6), OB = (-5, 2) iii. Let a = (-1, 3, 4, 7) & b = (-3, -2, 1, 0) be vectors in R4. Find a + b, 5a + b.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Linear Algebra",
+    "exam_type": "ATKT",
+    "question_number": "Q1(b)",
+    "question": "Define vector addition. State the properties of vector addition & scalar multiplication.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Linear Algebra",
+    "exam_type": "ATKT",
+    "question_number": "Q1(c)",
+    "question": "Express the vector (2, 6) as a linear combination of vectors (1, 1) & (2, 3).",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Linear Algebra",
+    "exam_type": "ATKT",
+    "question_number": "Q1(d)",
+    "question": "Let v1 = (2, 5) & v2 = (1, 3). Show that {v1, v2} is a spanning set for R2.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Linear Algebra",
+    "exam_type": "ATKT",
+    "question_number": "Q2(a)",
+    "question": "Let A = \\(\\begin{bmatrix} 2 & 2 \\\\ 1 & 1 \\\\ 0 & 6 \\end{bmatrix}\\), B = \\(\\begin{bmatrix} 5 & 4 \\\\ 2 & 2 \\\\ 1 & 0 \\end{bmatrix}\\) Compute the following if they exist a. Find the transpose of A, B, C, D b. A + 4B",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Linear Algebra",
+    "exam_type": "ATKT",
+    "question_number": "Q2(b)",
+    "question": "Perform the vector-matrix multiplication in terms of linear combination. Vector v = (2, 3) and Matrix M = \\(\\begin{bmatrix} 1 & 2 & 4 \\\\ 10 & 15 & 20 \\end{bmatrix}\\)",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Linear Algebra",
+    "exam_type": "ATKT",
+    "question_number": "Q2(c)",
+    "question": "Find the coordinate vector of v = (4, 5) relative to the basis B = {(2, 1), (-1, 1)}.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Linear Algebra",
+    "exam_type": "ATKT",
+    "question_number": "Q2(d)",
+    "question": "What is rank of linear transformation? State it mathematically. Explain the concept of rank of linear transformation with the help of suitable example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Linear Algebra",
+    "exam_type": "ATKT",
+    "question_number": "Q3(a)",
+    "question": "Find the inverse of given matrix using Gauss-Elimination method A = \\(\\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}\\)",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Linear Algebra",
+    "exam_type": "ATKT",
+    "question_number": "Q3(b)",
+    "question": "Find the norm of the vector & normalize the given vector a. u = (1, 2, 3, 4) in R^4. b. u = (-2, 6, -8) in R^3.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Linear Algebra",
+    "exam_type": "ATKT",
+    "question_number": "Q3(c)",
+    "question": "What is normalization of vectors. Discuss the steps to normalize (along with formula) the vector. Consider vector v = (3, 4), find magnitude & normalize vector v.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Linear Algebra",
+    "exam_type": "ATKT",
+    "question_number": "Q3(d)",
+    "question": "Write a short note on modelling a web surfer: page rank",
+    "marks": 5
+  },
+
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q1(A)",
+    "question": "Explain Ordered List in HTML with example",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q1(B)",
+    "question": "Describe HTML Table with colspan attribute.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q1(C)",
+    "question": "Describe Basic Html Document Structure Tag in detail.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q1(D)",
+    "question": "Demonstrate following HTML Form Tags. <textarea>, <fieldset>, <legend>, <label>, <option>.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q1(E)",
+    "question": "Explain Radio Button control and Checkbox control with example in detail.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q1(F)",
+    "question": "List and explain Attributes of HTML Video Tag.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q2(A)",
+    "question": "Elaborate the concept of CSS Text Color and Background Color with example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q2(B)",
+    "question": "Explain JavaScript for loop and while loop with example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q2(C)",
+    "question": "Describe any 5 Primitive Data types in JavaScript.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q2(D)",
+    "question": "Demonstrate Navigator Object in JavaScript.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q2(E)",
+    "question": "Explain id and universal selector with its example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q2(F)",
+    "question": "Define different JavaScript variables with example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q3(A)",
+    "question": "What are the different Technologies are included in AJAX.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q3(B)",
+    "question": "List and explain Arithmetic and Comparison operators in php.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q3(C)",
+    "question": "List and explain XMLHttpRequest Object Methods.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q3(D)",
+    "question": "What is the difference between HTML and XML?",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q3(E)",
+    "question": "Write a short note on XML Entities.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q3(F)",
+    "question": "Describe XSLT <xsl-value-of> Element in detail.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q4(A)",
+    "question": "Whether HTML is Programming Language _______ ?",
+    "marks": 1
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q4(B)",
+    "question": "_______ CSS is used to apply CSS as a single line of element.",
+    "marks": 1
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q4(C)",
+    "question": "_______ html attribute is used to define inline styles.",
+    "marks": 1
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q4(D)",
+    "question": "_______ is used to define function in JavaScript.",
+    "marks": 1
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Web Programming",
+    "exam_type": "Regular",
+    "question_number": "Q4(E)",
+    "question": "PHP code is executed on the _______ side.",
+    "marks": 1
+  },
+
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q1(A)",
+    "question": "Explain the Swing's architecture and how it improves upon AWT?",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q1(B)",
+    "question": "describe the way the JComponent class works in Java Swing?",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q1(C)",
+    "question": "What are the core components of JDBC?.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q1(D)",
+    "question": "Explain the steps involved in establishing a database connection using JDBC.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q2(A)",
+    "question": "Write a Servlet program to accept two numbers from the user through html form and display their average using a Java Servlet.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q2(B)",
+    "question": "Which are the different JSP Scripting tags. Explain with example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q2(C)",
+    "question": "What is JSP Expression Language (EL)?",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q2(D)",
+    "question": "Briefly explain JavaBean concept along with its advantages and disadvantages.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q3(A)",
+    "question": "What is Struts 2 and how does it relate to the MVC (Model-View-Controller) design pattern?",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q3(B)",
+    "question": "What is the role of struts.xml in a Struts 2 application?",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q3(C)",
+    "question": "Distinguish between JSON and XML.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2025-26",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q3(D)",
+    "question": "How does Struts 2 handle form submission and data population into Action classes?",
+    "marks": 5
+  },
+
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Core Java",
+    "exam_type": "ATKT",
+    "question_number": "Q1(A)",
+    "question": "Demonstrate the concepts of polymorphism with example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Core Java",
+    "exam_type": "ATKT",
+    "question_number": "Q1(B)",
+    "question": "What are packages? List various pre-defined packages demonstrate anyone with an example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Core Java",
+    "exam_type": "ATKT",
+    "question_number": "Q1(C)",
+    "question": "List and explain different features of object-oriented programming.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Core Java",
+    "exam_type": "ATKT",
+    "question_number": "Q1(D)",
+    "question": "Write a Java program to demonstrate concept of constructor overloading.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Core Java",
+    "exam_type": "ATKT",
+    "question_number": "Q2(A)",
+    "question": "Explain the concept of throws and throw keyword in detail with an example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Core Java",
+    "exam_type": "ATKT",
+    "question_number": "Q2(B)",
+    "question": "Briefly explain Socket class along with its methods.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Core Java",
+    "exam_type": "ATKT",
+    "question_number": "Q2(C)",
+    "question": "Write a short note on Thread Life Cycle.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Core Java",
+    "exam_type": "ATKT",
+    "question_number": "Q2(D)",
+    "question": "Explain use of BufferedReader class with any two of its methods.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Core Java",
+    "exam_type": "ATKT",
+    "question_number": "Q3(A)",
+    "question": "What are inner classes in java? Explain its need and advantage in detail.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Core Java",
+    "exam_type": "ATKT",
+    "question_number": "Q3(B)",
+    "question": "Briefly explain AWT components- Label and Button.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Core Java",
+    "exam_type": "ATKT",
+    "question_number": "Q3(C)",
+    "question": "Describe various characteristics and methods of Map Interface.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "2025-26",
+    "subject": "Core Java",
+    "exam_type": "ATKT",
+    "question_number": "Q3(D)",
+    "question": "Explain use of wrapper classes in java",
+    "marks": 5
+  }
+]

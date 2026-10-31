@@ -1,0 +1,482 @@
+[
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "Explain following controls with methods and properties with example. a. JRadioButton b. JComboBox c. JList",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "Explain types of JDBC driver.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "Short note on JTabbedPane. (with example).",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "Write a JDBC program to delete record in a database.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "What is HTTP? Explain characteristics and features of HTTP.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "What is Get and Post methods? Differentiate between the two.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "Short note on Session with example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "Write a java servlet program that can display a web page with users favorite color as background and read the user \"Hello\"+ username.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Explain standard architecture flow of struct2.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "Explain JSON with java with example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Explain JavaBean concept. Explain characteristics of it.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Advance Java",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "Explain JSON with XML with example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Physical Computing & IOT Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "Discuss the various features of IOT.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Physical Computing & IOT Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "Write a short note on FPGA.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Physical Computing & IOT Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "Write a short note on APU.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Physical Computing & IOT Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "Discuss the steps to set up Raspberry Pi board.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Physical Computing & IOT Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "Write a short note on SSH. Explain the working of SSH.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Physical Computing & IOT Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "Discuss the hardware requirement of I2C communication.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Physical Computing & IOT Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "List and explain advantages & disadvantages of SPI communication.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Physical Computing & IOT Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "Write a short note on GPIO.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Physical Computing & IOT Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Explain the MQTT protocol for IOT systems.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Physical Computing & IOT Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "Write a short note on carriot platformfor IOT systems.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Physical Computing & IOT Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Explain Man in the middle attack of IOT system.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Physical Computing & IOT Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "Discuss about the security & interoperability concerns of IOT systems.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Linear Algebra Using Python",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "Using python write a comprehension for the following: a) Construct new set with odd values of set S={1,2,3,4,5} b) Construct new sets which have unique members of both the sets. c) From the lists L1= and L2=, write a comprehension to construct a list which elements are addition of elements of L1 and L2.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Linear Algebra Using Python",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "Express the following in the form of a+ib where a and b are real numbers. i) \\(\\frac{3+2i}{(4-5i)(2+i)}\\) ii) \\(\\frac{(1+2i)^3}{(1+i)(2-i)}\\)",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Linear Algebra Using Python",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "Define the following terms i) Scalars ii) Vectors iii) Null vector iv) Unit vector",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Linear Algebra Using Python",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "Prove the Commutative property of vector addition with one example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Linear Algebra Using Python",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "Define the term Linear Combination. Determine whether the vector (8,0,5) is a linear combination of the vector (1,2,3), (0,1,4) & (2,1,-1).",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Linear Algebra Using Python",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "Consider F be any field, where A be a matrix and u be a column vector such that Au exists then prove that f(u) = Au is a linear function.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Linear Algebra Using Python",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "Write a short note on Matrix Vector multiplication with one example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Linear Algebra Using Python",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "A group took a trip on a bus, at $3 per child & $3.20 per adult for a total of $118.40 They took the train back at 350 per child & $3.60 per adult for a total of $135.20 How many children & How many adults?",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Linear Algebra Using Python",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Define the term Echelon form. Also write steps to transform a matrix into its Echelon form.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Linear Algebra Using Python",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "Write a short note on orthogonal and orthonormal vectors.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Linear Algebra Using Python",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Varify if following matrices are orthogonal and hence find their inverse \\(A = \\frac{1}{3} \\begin{bmatrix} 1 & 2 & 2 \\ 2 & 1 & -2 \\ -2 & 2 & -1 \\end{bmatrix}\\)",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Linear Algebra Using Python",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "Reduce the given matrix A into its Echelon form. \\(A = \\begin{bmatrix} 1 & 5 & 3 \\ 2 & 2 & 7 \\ 3 & 1 & 2 \\end{bmatrix}\\)",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Paper VI (.NET Technologies)",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "Describe Implicit and Explicit type conversion in C# with example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Paper VI (.NET Technologies)",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "Write a C# Program to draw the following pattern: --- --- --- - * 1. \\----- till n rows.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Paper VI (.NET Technologies)",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "Describe Components of .Net Framework in detail.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Paper VI (.NET Technologies)",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "Explain for loop in C# with suitable example.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Paper VI (.NET Technologies)",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "What is the use of Master Pages in asp.net? How a Content Page can be added to a Master Page?",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Paper VI (.NET Technologies)",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "Describe Session State management with example in detail.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Paper VI (.NET Technologies)",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "Give Syntax of Hyperlink Control with its Properties.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Paper VI (.NET Technologies)",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "Explain any three List Controls in ASP.net with its Syntax.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Paper VI (.NET Technologies)",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Explain the standard Query operators \"Select\", \"From\", and \"Where\" in LINQ.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Paper VI (.NET Technologies)",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "Explain sorting and paging with respect to GridView Control in ASP.Net.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Paper VI (.NET Technologies)",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Define Caching, explain different types of caching.",
+    "marks": 5
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "2023-24",
+    "subject": "Paper VI (.NET Technologies)",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "Write a short note on SqlConnection class.",
+    "marks": 5
+  }
+]

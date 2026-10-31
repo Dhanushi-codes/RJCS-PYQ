@@ -1,0 +1,362 @@
+[
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Operating System",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "Write a short Time-sharing computing environment.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Operating System",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "Explain the simple structure of OS.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Operating System",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "With a neat diagram explain five state process model.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Operating System",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "List and explain thread benefits.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Operating System",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "Discuss producer consumer processes in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Operating System",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "Consider following table. Calculate average waiting time using SJF (non-preemptive) Process | Arrival Time | Burst Time P1 | 0 | 7 P2 | 4 | 4 P3 | 6 | 3 P4 | 8 | 4 P5 | 8 | 7",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Operating System",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "Discuss the deadlock recovery techniques.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Operating System",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "Explain FCFS scheduling algorithm.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Operating System",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Explain the concept of swapping.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Operating System",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "Explain the optimal page replacement algorithm.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Operating System",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Consider a disk queue with requests for I/O to blocks on cylinders 98,183,37,122,14,124,65,67. Head starts at 53. Find the total disk head movements using FCFS algorithm.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Operating System",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "Explain in brief tree structured directories.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Combinatorics and Graph Theory",
+    "exam_type": "ATKT",
+    "question_number": "Q1(A)",
+    "question": "Prove that 3 + 3^2 + 3^3 + ... + 3^n = 3/2 (3^n - 1) for all n >= 1, by first principle of mathematical induction.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Combinatorics and Graph Theory",
+    "exam_type": "ATKT",
+    "question_number": "Q1(B)",
+    "question": "Find coefficient of x^5 y^7 in (3x - 2y)^12?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Combinatorics and Graph Theory",
+    "exam_type": "ATKT",
+    "question_number": "Q1(C)",
+    "question": "(a) Find partition of 3 and 6? (b) Explain What is 'Sudoku Puzzle'?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Combinatorics and Graph Theory",
+    "exam_type": "ATKT",
+    "question_number": "Q1(D)",
+    "question": "State and prove Pascal's identity.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Combinatorics and Graph Theory",
+    "exam_type": "ATKT",
+    "question_number": "Q2(A)",
+    "question": "Determine if the following graphs are isomorphic. [Diagrams provided with vertices a, b, c, d, e, f and u, v, w, x, y, z]",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Combinatorics and Graph Theory",
+    "exam_type": "ATKT",
+    "question_number": "Q2(B)",
+    "question": "[Diagram provided with vertices a, b, c, d, e, f, g, h] (i) Find degree of each vertex (ii) Find adjacency matrix and incidence matrix.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Combinatorics and Graph Theory",
+    "exam_type": "ATKT",
+    "question_number": "Q2(C)",
+    "question": "Define (a) Graph (b) Simple graph (c) Compound graph (d) Complete graph (5) Null graph",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Combinatorics and Graph Theory",
+    "exam_type": "ATKT",
+    "question_number": "Q2(D)",
+    "question": "Draw a tree whose prufer code is 6643143.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Combinatorics and Graph Theory",
+    "exam_type": "ATKT",
+    "question_number": "Q3(A)",
+    "question": "Using Ford Fulkerson's Algorithm, find a maximum flow in the following network. [Network diagram provided]",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Combinatorics and Graph Theory",
+    "exam_type": "ATKT",
+    "question_number": "Q3(B)",
+    "question": "Explain Flows and cuts ? What is realtion between flows and cuts?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Combinatorics and Graph Theory",
+    "exam_type": "ATKT",
+    "question_number": "Q3(C)",
+    "question": "Why each path is an augmenting path and how the value of δ is determined for each path. (a) P1 = (s, A, B, t) (b) P2 = (s, C, B, t) (c) P3 = (s, A, B, C, D, t) [Flow network diagram provided]",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Combinatorics and Graph Theory",
+    "exam_type": "ATKT",
+    "question_number": "Q3(D)",
+    "question": "Explain oriented graph, source, sink and capacity of network with example.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "What is an image tag in HTML? How to create an image on a web page explain with examples.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "How to create a Table in HTML explained with an example.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "What is CSS? How to create an Internal style sheet in HTML.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "List and explain the interactive elements in HTML5.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "What is a java script? What are the rules for java script variables?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "What is the difference between HTML and XML?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "What is DTD? Explain types of DTD with syntax.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "What is a function in java script? How to define a function in java script explain with syntax.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "What are the different types of XMLHttpRequestmethods.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "What is a cookie in php? How to store a cookie on a web page in php.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "What are the different types of Event manipulation methods?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 3,
+    "academic_year": "2023-24",
+    "subject": "Web Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "What are the different types of Events used in JQuery?",
+    "marks": 5
+  }
+]

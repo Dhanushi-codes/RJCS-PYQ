@@ -1,0 +1,575 @@
+[
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q2(A)",
+    "question": "Explain in detail with example propositional logic given terms: a. Atomic sentence b. Complex sentence",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q2(B)",
+    "question": "Define: a. Logical Agents b. Knowledge based Agents c. Knowledge base",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q2(C)",
+    "question": "Solve using propositional and predicate logic: i. Some students are intelligent. ii. Every man respects his parents. iii. All men drink coffee. iv. Everybody owns a house. v. Peter does not own a house. vi. All birds fly.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q2(D)",
+    "question": "Define inference in first order logic. Also explain with example: a. Substitution b. Equality",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q2(E)",
+    "question": "Elaborate backward chaining with example.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q2(F)",
+    "question": "Explain in detail first order logic. Give an example. Also explain how it overcome limitations of propositional logic.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q3(A)",
+    "question": "What is ANN? Explain types of ANN.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q3(B)",
+    "question": "Explain working of Unsupervised learning with example.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q3(C)",
+    "question": "Describe regression as well types of regression with an example.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q3(D)",
+    "question": "State the characteristics and applications of machine learning.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q3(E)",
+    "question": "Explain biological and artificial neural networks in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q3(F)",
+    "question": "Explain support vector machines in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q4(A)",
+    "question": "What is Natural Language Processing? Explain its components.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q4(B)",
+    "question": "What is an Expert System? Explain components of the Expert system.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q4(C)",
+    "question": "What is Robot Locomotion? Explain its four types.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q4(D)",
+    "question": "List and Explain application of Reinforcement Learning. Also explain active and passive reinforcement learning.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q4(E)",
+    "question": "Define Robotics. Differentiate between AI programs and Robots.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q4(F)",
+    "question": "What is computer vision? Explain its tasks as well as hardware of computer vision systems.",
+    "marks": 5
+  },
+
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q1(A)",
+    "question": "What is Information Security in Network Systems? Distinguish between Information security & Network security.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q1(B)",
+    "question": "Explain OSI Security Services and Security Mechanisms in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q1(C)",
+    "question": "Illustrate the Transposition Techniques: - Simple Columnar Technique with suitable example.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q1(D)",
+    "question": "Write a brief note on Steps of DES algorithm.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q1(E)",
+    "question": "Illustrate the concept of Steganography and its types.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q1(F)",
+    "question": "Elaborate the concept of Double DES and Triple DES algorithms.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q2(A)",
+    "question": "Write a short note on Digital Signature Standard along with suitable diagram.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q2(B)",
+    "question": "What are Authentication Requirements? Explain MAC in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q2(C)",
+    "question": "Illustrate the concept of Hash function along with basic types of Hash functions in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q2(D)",
+    "question": "Write a brief note on Digital Signature. State and explain its features in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q2(E)",
+    "question": "Explain the concept/steps of Diffie-Hellman algorithm with an example.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q2(F)",
+    "question": "What is HMAC? Explain the working of HMAC in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q3(A)",
+    "question": "Illustrate the concept of Protocol-based Intrusion Detection System (PIDS) and Network Intrusion Detection System (NIDS).",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q3(B)",
+    "question": "Elaborate the concept of Pretty Good Privacy with suitable diagram.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q3(C)",
+    "question": "Briefly explain Transport Layer Security and working with TLS.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q3(D)",
+    "question": "Illustrate the concept of DDoS and explain how do DDoS Attacks Work?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q3(E)",
+    "question": "List various Viruses and explain any 5 in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q3(F)",
+    "question": "Briefly explain Security Threats and its Security Consideration in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q4(A)",
+    "question": "What are Firewalls? List and explain need and importance of Firewall Design Principles.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q4(B)",
+    "question": "Write a brief note on working Proxy Firewall and state its advantages and disadvantages.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q4(C)",
+    "question": "Define hacking. Explain how to identify that your system is hacked?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q4(D)",
+    "question": "List and explain four reasons why security policy is important.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q4(E)",
+    "question": "Briefly explain seven elements of an effective security policy.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q4(F)",
+    "question": "What is DMZ? State its advantages and disadvantages.",
+    "marks": 5
+  },
+
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q3(4)",
+    "question": "What is the difference between ApiController and Controller?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q3(5)",
+    "question": "What are the different HTTP methods used in Web API?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q3(6)",
+    "question": "Web API cannot return an HTML view. If you want to return views, it is best to use MVC. If this statement is true, then explain the reason.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q4(1)",
+    "question": "List and explain different advantages of using microservices over SOAP web services.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q4(2)",
+    "question": "Differentiate between Microservice and service-oriented architecture.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q4(3)",
+    "question": "Explain the concept of microservices with some real time examples.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q4(4)",
+    "question": "Write a brief note on DaaS, PaaS and IaaS.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q4(5)",
+    "question": "How do REST APIs and Microservices relate to each other?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q4(6)",
+    "question": "The following statements are true in case of SOAP web services, RESTful services or Microservices? Support your answer with proper reason: \"Easy yet powerful method for building scalable web service interfaces. By constraining architecture around central resources accessed using standard HTTP methods, eases connected application development for mobile and web programming\".",
+    "marks": 5
+  },
+
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Software Testing and Quality Assurance",
+    "exam_type": "Regular",
+    "question_number": "Q4(A)",
+    "question": "Write a short note on Six-sigma.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Software Testing and Quality Assurance",
+    "exam_type": "Regular",
+    "question_number": "Q4(B)",
+    "question": "Differentiate between Informal Review and Formal Review.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Software Testing and Quality Assurance",
+    "exam_type": "Regular",
+    "question_number": "Q4(C)",
+    "question": "Elaborate the concept of Reliability testing in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Software Testing and Quality Assurance",
+    "exam_type": "Regular",
+    "question_number": "Q4(D)",
+    "question": "How to implement the quality assurance?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Software Testing and Quality Assurance",
+    "exam_type": "Regular",
+    "question_number": "Q4(E)",
+    "question": "Explain Cause-Effect graph in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2024-25",
+    "subject": "Software Testing and Quality Assurance",
+    "exam_type": "Regular",
+    "question_number": "Q4(F)",
+    "question": "Explain Different type of Quality Cost.",
+    "marks": 5
+  }
+]

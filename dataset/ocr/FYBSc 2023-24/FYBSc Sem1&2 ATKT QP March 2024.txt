@@ -1,0 +1,1453 @@
+[
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Green Technologies",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "How IT can help in enhancing environment sustainability?",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Green Technologies",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "Explain e-waste disposal techniques.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Green Technologies",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "Explain Green computer's life cycle.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Green Technologies",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "Explain the following with the help of diagram: a) Reuse b) Refurbish c) Recycle.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Green Technologies",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "Explain four components of IT infrastructure.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Green Technologies",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "Explain Enterprise green IT Strategy.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Green Technologies",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "Explain SSD.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Green Technologies",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "Explain State Transitions.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Green Technologies",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Explain multilevel sustainable information.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Green Technologies",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "Write a short note on Demanufacturing and Reverse Logistics.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Green Technologies",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "What are the four major ways in which an organization can gain value by greening",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Green Technologies",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "Explain the following: a) Natural laws b) Frameworks c) Principals d) Tools.",
+    "marks": 5
+  },
+
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Computer Architecture & Organization",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "Write a short note on Mini Computer.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Computer Architecture & Organization",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "Perform the following a) (1010)*2 = (?)*{10} b) (512)_{10} = (?)_2",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Computer Architecture & Organization",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "Explain the NAND, NOR logic gates.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Computer Architecture & Organization",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "Write a short note on Multiplexer.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Computer Architecture & Organization",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "Explain the concept of register memory.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Computer Architecture & Organization",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "Write a short note on RISC processor.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Computer Architecture & Organization",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "Differentiate between RAM&ROM.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Computer Architecture & Organization",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "Write a short note on Cache memory.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Computer Architecture & Organization",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Give the introduction of components of processor.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Computer Architecture & Organization",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "Explain the concept of register file of CPU.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Computer Architecture & Organization",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Discuss the instruction fetch & execution steps.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Computer Architecture & Organization",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "Write a short note on ALU.",
+    "marks": 5
+  },
+
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Free and Open Source Software",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "Write a note on the following: i) Trademark ii) Copyright",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Free and Open Source Software",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "Explain the concept of \"Free doesn't mean no cost\".",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Free and Open Source Software",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "Describe Software Freedoms in detail.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Free and Open Source Software",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "Write a note on the following: i) GPL License ii) Mozilla License",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Free and Open Source Software",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "Describe GNU/Linux in detail.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Free and Open Source Software",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "What are different Development phases in open source software /",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Free and Open Source Software",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "Explain OpenOffice Software in detail.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Free and Open Source Software",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "Describe installation steps for GCC(MinGW) in detail.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Free and Open Source Software",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Write a short note on Virtualization.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Free and Open Source Software",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "Define the following terms: a) IDE's b) Programming Language",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Free and Open Source Software",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Describe the Concept of LAMP in detail.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Free and Open Source Software",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "Describe Content Management System in detail.",
+    "marks": 5
+  },
+
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Database System",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "List the limitations/disadvantages of DBMS.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Database System",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "What are the basic constructs of ER model?",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Database System",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "What is an Attribute? Explain different types of Attributes.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Database System",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "Differentiate between Weak and Strong Entities.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Database System",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "Write short note on DML statement. Explain Update Query in SQL.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Database System",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "Define Functional Dependency. Support your answer with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Database System",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "List and Explain different Aggregate functions.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Database System",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "Explain Order by, Group by and Having Clauses with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Database System",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Explain different SQL query for manipulating view.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Database System",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "Explain in brief about Subqueries and Correlated queries.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Database System",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Explain Rollback and Commit with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Database System",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "List and explain Role of DBA.",
+    "marks": 5
+  },
+
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q1(A)",
+    "question": "If f: R → R is defined by f(x) = (2x - 3)/7, then show that f is bijective and hence find inverse of f.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q1(B)",
+    "question": "Let A = {1, 2, 3, 4}. Defined a relation R on A by xRy if and only if x ≤ y. Find the relation R and write down its adjacency matrix. Also draw digraph of R.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q1(C)",
+    "question": "Solve the recurrence relation a_n = 4a_{n-1} - 4a_{n-2} for n ≥ 2, a_0 = 6, a_1 = 8.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q1(D)",
+    "question": "Let R = {(1,2), (1,3), (1,4), (2,3), (3,1), (3,3), (4,2)} and S = {(1,3), (2,2), (3,2), (4,2)} be the relation on A = {1, 2, 3, 4}. Find (a) R o S (b) S o R (c) Is R o S = S o R?",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q2(A)",
+    "question": "If P = {x / x^2 + 14x + 40 = 0}, Q = {x / x^2 - 5x + 6 = 0} Find (a) P ∪ Q (b) P ∩ Q (c) P^c",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q2(B)",
+    "question": "Find the number of arrangements of letters in the word (i) TALLAHASSEE (ii) LOGARITHM",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q2(C)",
+    "question": "Find coefficient of x^3 y^3 in the expansion (3x + 2y)^6",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q2(D)",
+    "question": "(a) State Pigeon Hole Principle (b) Show that there does not exist 7 lectures each of 30 minutes from 10 am to 1 pm.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q3(A)",
+    "question": "(a) Define Incidence matrix. (b) Draw a graph with adjacency matrix [1 2 0 1; 2 0 1 0; 0 1 1 1; 1 0 1 0] (c) Draw a graph with incidence matrix [1 0 0 1 0; 0 1 1 0 0; 0 1 1 1 2]",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q3(B)",
+    "question": "(a) Define Handshaking lemma. (b) How many edges are there in a graph with 6 vertices each of degree 6?",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q3(C)",
+    "question": "Consider the binary tree T in the following figure. (i) Traverse T using the inorder algorithm (ii) Traverse T using the Preorder algorithm",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q3(D)",
+    "question": "Write Breadth First Search Algorithm.",
+    "marks": 5
+  },
+
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Descriptive Statistics and Introduction to probability",
+    "exam_type": "ATKT",
+    "question_number": "Q1(A)",
+    "question": "The weights in grams of 50 apples picked at random from a consignment are as follows: 106, 107, 76, 82, 109, 107, 115, 93, 187, 195, 123, 125, 111, 92, 86, 70, 126, 68, 130, 129, 139, 119, 115, 128, 100, 186, 84, 99, 113, 204, 111, 141, 136, 123, 90, 115, 98, 110, 78, 90, 107, 81, 131, 75, 84, 104, 110, 80, 118, 82. Form the grouped frequency table by dividing the variable range into intervals of equal width, each corresponding to 20 grams in such a way that the mid value of the first class corresponds to 70 grams.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Descriptive Statistics and Introduction to probability",
+    "exam_type": "ATKT",
+    "question_number": "Q1(B)",
+    "question": "(a) Explain More than Ogive curves. (b) Form an ordinary frequency table from the following tables: Marks: Below 5 (4), Below 15 (7), Below 25 (13), Below 35 (22), Below 45 (28), Below 55 (40)",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Descriptive Statistics and Introduction to probability",
+    "exam_type": "ATKT",
+    "question_number": "Q1(C)",
+    "question": "Calculate the median for the following data: Class frequency: 5-10 (12), 15-20 (14), 25-30 (16), 35-40 (18)",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Descriptive Statistics and Introduction to probability",
+    "exam_type": "ATKT",
+    "question_number": "Q1(D)",
+    "question": "Find the value of Q1 from the following data: Marks: 0-20 (25), 20-40 (45), 40-60 (50), 60-80 (26), 80-100 (35)",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Descriptive Statistics and Introduction to probability",
+    "exam_type": "ATKT",
+    "question_number": "Q2(A)",
+    "question": "The first four raw moments of a distribution are 5, 10, 30 and 40. Obtained the first three central moments and coefficient of skewness.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Descriptive Statistics and Introduction to probability",
+    "exam_type": "ATKT",
+    "question_number": "Q2(B)",
+    "question": "Regression equations are 5x - 6y + 90 = 0 and 15x - 8y - 180 = 0. Find the mean values of x and y and also the coefficients of correlation r.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Descriptive Statistics and Introduction to probability",
+    "exam_type": "ATKT",
+    "question_number": "Q2(C)",
+    "question": "Find Regression line of x on y for the following data: x | 2 | 3 | 5 | 7 | 9 | 10; y | 2 | 8 | 10 | 12 | 14 | 16",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Descriptive Statistics and Introduction to probability",
+    "exam_type": "ATKT",
+    "question_number": "Q2(D)",
+    "question": "Explain positively skewed and negative skewed.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Descriptive Statistics and Introduction to probability",
+    "exam_type": "ATKT",
+    "question_number": "Q3(A)",
+    "question": "Explain the following using example (a) Mutually exclusive events (b) Exhaustive events",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Descriptive Statistics and Introduction to probability",
+    "exam_type": "ATKT",
+    "question_number": "Q3(B)",
+    "question": "Letter of the word ALGORITHM are arranged at random. Find the probability that the letter G, O and R must remain together.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Descriptive Statistics and Introduction to probability",
+    "exam_type": "ATKT",
+    "question_number": "Q3(C)",
+    "question": "If A and B are mutually exclusive events, P(A) = 0.25 and P(B) = 0.45, Find (i) P(A') and P(B') (ii) P(A ∪ B) (iii) P(A' ∩ B')",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Descriptive Statistics and Introduction to probability",
+    "exam_type": "ATKT",
+    "question_number": "Q3(D)",
+    "question": "A box contains 10 black and 10 white balls. Two balls drawn at random. Find the probability that they are of the same color.",
+    "marks": 5
+  },
+
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Soft Skills Development",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "Explain the components of Non-verbal Communication and body Language.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Soft Skills Development",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "What are the Needs for Emotional Intelligence?",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Soft Skills Development",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "Explain Personal Competencies in detail.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Soft Skills Development",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "Explain the importance of Non-Verbal Communication.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Soft Skills Development",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "Write a short note on INTERVIEW Skill Tips.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Soft Skills Development",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "Differentiate between group discussion and panel discussion.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Soft Skills Development",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "Explain how to develop an impressive resume.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Soft Skills Development",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "What all tips are required for successful participation in a group discussion?",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Soft Skills Development",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Explain the SIX Thinking Hat Method in detail.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Soft Skills Development",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "List and explain the elements of capacity building.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Soft Skills Development",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Explain what all strategies are required for capacity building.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Soft Skills Development",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "Explain the current Leadership trends.",
+    "marks": 5
+  },
+
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "C Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "Difference between interpreters and compilers.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "C Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "Name and describe the four basic data types in C.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "C Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "Explain use of switch statement. Compare switch statement with if statement and state the advantages of switch statement.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "C Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "Explain how break statement used in switch statement.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "C Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "What is an array? How is it declared explain it with example?",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "C Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "What is string? How is it declared explain with example?",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "C Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "Explain recursion with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "C Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "Explain block structure of function with diagram.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "C Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Explain pointer arithmetic with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "C Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "What are the different types of dynamic memory allocation functions.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "C Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Explain sizeof operator in detail.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "C Programming",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "Explain different file modes in c language.",
+    "marks": 5
+  },
+
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Linux",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "Describe the responsibilities of Linux kernel system.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Linux",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "Illustrate Process Management in linux with any two examples.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Linux",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "Write a note on Linux Community.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Linux",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "Explain the following environment variable commands: i)$PATH ii)PWD iii)HOSTNAME iv)LANG v)USER.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Linux",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "Demonstrate Boolean operators in linux operating system with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Linux",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "Illustrate the syntax of select loop with appropriate example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Linux",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "What is gedit and its features? Explain.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Linux",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "Define Shell variables.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Linux",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Explain Boolean operators -a, -o and ! used in shell scripting with an example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Linux",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "Explain the command: i)telnet ii)route iii)hostname iv)ping v)ifconfig",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Linux",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Illustrate the main protocols of Application Layer in TCP/IP model.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Linux",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "Write a shell script to accept a number from the user and display even number series till that number.",
+    "marks": 5
+  },
+
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Data Structure",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "Explain the following terms with example: a) List b) Dictionary c) Tuple.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Data Structure",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "Define Dictionary? Also explain operations of Dictionary.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Data Structure",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "Explain Selection Sort with the help of an example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Data Structure",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "What is Abstract data type? Also explain its Features, Advantage and disadvantage.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Data Structure",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "Define Linked List? Explain its advantages and drawbacks.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Data Structure",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "With the help of algorithm explain four operations on stack.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Data Structure",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "Explain Stack in detail.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Data Structure",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "Write an algorithm to traverse Single Linked list. Also explain the applications of Linked List.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Data Structure",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "What is Double Linked List? Explain its Uses, advantages and disadvantages.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Data Structure",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "Explain Quick Sort With the help of an Example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Data Structure",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Write a short note on heap.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Data Structure",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "Solve the following list of elements using Max heap: 44, 33, 77, 11, 55, 88, 66",
+    "marks": 5
+  },
+
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Calculus",
+    "exam_type": "ATKT",
+    "question_number": "Q1(A)",
+    "question": "If f(x) = -x^2 + 2x - 5, find the intervals on which the function f(x) is increasing and decreasing.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Calculus",
+    "exam_type": "ATKT",
+    "question_number": "Q1(B)",
+    "question": "Using Newton Method to determine an approximation to the solution to x^3 - 2x - 5 = 0 that lies in. Find the approximation to four decimal places. Take 2.5 as an initial value.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Calculus",
+    "exam_type": "ATKT",
+    "question_number": "Q1(C)",
+    "question": "Show that lim(x → 5) (4x + 3) = 23 by definition of limit.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Calculus",
+    "exam_type": "ATKT",
+    "question_number": "Q1(D)",
+    "question": "Let f: R → R by f(x) = x sin x. Show that f is differentiable for all p ∈ R.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Calculus",
+    "exam_type": "ATKT",
+    "question_number": "Q2(A)",
+    "question": "Find the length of the curve given by x = 3 sin t, y = 3 cos t, 0 ≤ t ≤ 2π.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Calculus",
+    "exam_type": "ATKT",
+    "question_number": "Q2(B)",
+    "question": "Evaluate ∫_0^1 (1-x^2)/(1+x^3) dx using Simpson's 1/3rd rule with h = 0.25.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Calculus",
+    "exam_type": "ATKT",
+    "question_number": "Q2(C)",
+    "question": "Find (i) ∫_1^3 (x^2 - 4x + 1) dx (ii) ∫_0^π sin x dx",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Calculus",
+    "exam_type": "ATKT",
+    "question_number": "Q2(D)",
+    "question": "Solve the differential equation dy/dx - y/x = 1.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Calculus",
+    "exam_type": "ATKT",
+    "question_number": "Q3(A)",
+    "question": "Evaluate (i) lim_(x,y)→(1,2) (xy+1)/(2x+y+1) (ii) lim_(x,y)→(3,2) ((x-3)y)/(x^2-9)",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Calculus",
+    "exam_type": "ATKT",
+    "question_number": "Q3(B)",
+    "question": "Find the linearization of f(x,y) = x^3 + xy + y^2 at (1,2).",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Calculus",
+    "exam_type": "ATKT",
+    "question_number": "Q3(C)",
+    "question": "Find the direction along which f(x,y,z) = x^3 - y^3 + 2xy at u = (1,1,1) (i) Increases most rapidly at u (ii) Decreases most rapidly at u",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Calculus",
+    "exam_type": "ATKT",
+    "question_number": "Q3(D)",
+    "question": "Find the equation of tangent and normal for the x^3 + x^2 y - 2xy + 25 = 0 at (-2,3).",
+    "marks": 5
+  },
+
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Statistical Method and Testing of Hypothesis",
+    "exam_type": "ATKT",
+    "question_number": "Q1(A)",
+    "question": "For the following probability distribution of X: X | 1 | 2 | 3 | 4 | 5; P(X=x) | k | 2k | 4k | 3k | 5k. Find (i) k (ii) P(X >= 3) (iii) P(X < 4)",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Statistical Method and Testing of Hypothesis",
+    "exam_type": "ATKT",
+    "question_number": "Q1(B)",
+    "question": "Explain Cumulative Distribution function of continuous random variable and its properties.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Statistical Method and Testing of Hypothesis",
+    "exam_type": "ATKT",
+    "question_number": "Q1(C)",
+    "question": "Let X be continuous random variable with p.d.f f(x) = { k x e^{-x}, x ≥ 0; 0, otherwise }. Find (a) k (b) Mean",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Statistical Method and Testing of Hypothesis",
+    "exam_type": "ATKT",
+    "question_number": "Q1(D)",
+    "question": "Let X be a discrete random variable with the following probability distribution. X | 1 | 3 | 5; P(X) | 1/3 | 1/5 | 1/6. Find the mean and variance.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Statistical Method and Testing of Hypothesis",
+    "exam_type": "ATKT",
+    "question_number": "Q2(A)",
+    "question": "Explain Confidence Interval.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Statistical Method and Testing of Hypothesis",
+    "exam_type": "ATKT",
+    "question_number": "Q2(B)",
+    "question": "A sample of 50 files from a file system is selected. The sample mean size of file is 12.3 Kbytes. The standard deviation is known to be 0.5 Kbytes. Whether there is evidence at the 0.05 level of significance that the population mean size of file is 12.5 Kbytes. [Z value is 1.96 and P(Z > 2.82) = 0.0024]",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Statistical Method and Testing of Hypothesis",
+    "exam_type": "ATKT",
+    "question_number": "Q2(C)",
+    "question": "In sampling experiment of two samples composed of 6 and 11 elements and standard deviation S1 = 3.6, S2 = 2. Is the difference between S1 and S2 significant at the 5% level? [Table value is 3.33]",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Statistical Method and Testing of Hypothesis",
+    "exam_type": "ATKT",
+    "question_number": "Q2(D)",
+    "question": "Explain Null hypothesis and Alternative hypothesis with the help of example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Statistical Method and Testing of Hypothesis",
+    "exam_type": "ATKT",
+    "question_number": "Q3(A)",
+    "question": "Explain difference between parametric and non-parametric tests.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Statistical Method and Testing of Hypothesis",
+    "exam_type": "ATKT",
+    "question_number": "Q3(B)",
+    "question": "Solve Using Mann Whitney U test A | 6 | 5 | 2 | 4 | 10; B | 2 | 6 | 4 | 1 | 3",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Statistical Method and Testing of Hypothesis",
+    "exam_type": "ATKT",
+    "question_number": "Q3(C)",
+    "question": "Ten randomly chosen models wants on a diet in an attempt to lose weight (in kgs) with the following; Before | 55 | 58 | 60 | 57 | 65 | 58 | 59 | 53; After | 48 | 50 | 55 | 58 | 59 | 56 | 50 | 55. Use Wilcoxon signed Rank Test and check if the diet is an effective means of losing weight. [Table value is 1]",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Statistical Method and Testing of Hypothesis",
+    "exam_type": "ATKT",
+    "question_number": "Q3(D)",
+    "question": "The 2x3 contingency repeated the distribution of education level and sex in one of the villages of the state. Test whether the education is independent of sex. Male | SSC: 200 | HSC: 280 | Graduate and other: 350; Female | SSC: 300 | HSC: 340 | Graduate and other: 370 [Critical value = 5.991]",
+    "marks": 5
+  }
+]

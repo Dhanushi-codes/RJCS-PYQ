@@ -1,0 +1,82 @@
+[
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "Unknown (Review Required)",
+    "subject": "Java",
+    "question_number": null,
+    "question": "Explain JDBC Architecture with Features.",
+    "marks": null,
+    "source_file": "source_1"
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "Unknown (Review Required)",
+    "subject": "Java",
+    "question_number": null,
+    "question": "Write a program to find square and cube of a number using class.",
+    "marks": null,
+    "source_file": "source_1"
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "Unknown (Review Required)",
+    "subject": "Java",
+    "question_number": null,
+    "question": "Differentiate between Get and Post methods.",
+    "marks": null,
+    "source_file": "source_1"
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "Unknown (Review Required)",
+    "subject": "Linear Algebra",
+    "question_number": null,
+    "question": "Explain the term Complex number with arithmetic operations of Complex number where C and D are real numbers.",
+    "marks": null,
+    "source_file": "source_1"
+  },
+  {
+    "year": "SY",
+    "semester": 4,
+    "academic_year": "Unknown (Review Required)",
+    "subject": "Linear Algebra",
+    "question_number": null,
+    "question": "Explain the following terms: i) Translation ii) Rotation iii) Scaling",
+    "marks": null,
+    "source_file": "source_1"
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "Unknown (Review Required)",
+    "subject": "Web Programming",
+    "question_number": null,
+    "question": "Explain Navigation control with its properties.",
+    "marks": null,
+    "source_file": "source_1"
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "Unknown (Review Required)",
+    "subject": "Web Programming",
+    "question_number": null,
+    "question": "Explain Validator Control with its basic syntax.",
+    "marks": null,
+    "source_file": "source_1"
+  },
+  {
+    "year": "SY",
+    "semester": 3,
+    "academic_year": "Unknown (Review Required)",
+    "subject": "Web Programming",
+    "question_number": null,
+    "question": "Explain AdRotator Control with its properties.",
+    "marks": null,
+    "source_file": "source_1"
+  }
+]

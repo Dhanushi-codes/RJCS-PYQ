@@ -1,0 +1,605 @@
+[
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q1(1)",
+    "question": "Define file handling in python? Explain with example how to open and close a file.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q1(2)",
+    "question": "What are different types of modes available in python to open a file explain with example?",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q1(3)",
+    "question": "What is Exception Handling explain with example?",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q1(4)",
+    "question": "List out the various keywords available to handle exception.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q1(5)",
+    "question": "Explain Regular Expression with its different functions.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q1(6)",
+    "question": "What are different types of functions available in python for handling exception.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q2(1)",
+    "question": "What is GUI Programming in python? Write down the steps to create a tkinter app with syntax.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q2(2)",
+    "question": "Explain the Button widget and its different attributes with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q2(3)",
+    "question": "Explain the ListBox widget and its different attributes with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q2(4)",
+    "question": "Explain the MenuButton widget and its different attributes with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q2(5)",
+    "question": "Illustrate the code for creating Scale widget and explain different attributes of it.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q2(6)",
+    "question": "Illustrate the code for creating Scrollbar widget and explain different attributes of it.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q3(1)",
+    "question": "Mentioned the steps for connecting python application to Data base with syntax.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q3(2)",
+    "question": "How to create a cursor object in python explain with code?",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q3(3)",
+    "question": "Write down the code for creating Student table as (name, age, contact no) and inset at least 5 records in the table.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q3(4)",
+    "question": "Define read operation and explain with the code.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q3(5)",
+    "question": "What is mean by Socket explain in detail?",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q3(6)",
+    "question": "What is mean by Socket Programming explain with code.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q4(1)",
+    "question": "List out different functions available for manipulating directories.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q4(2)",
+    "question": "Explain the term iterator in python with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q4(3)",
+    "question": "Explain the canvas widget and its different attributes with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q4(4)",
+    "question": "Illustrate the code for creating Text widget and explain different attributes of it.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q4(5)",
+    "question": "Write down the code for deleting record from the table.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2022-23",
+    "subject": "Programming with Python-II",
+    "exam_type": "Regular",
+    "question_number": "Q4(6)",
+    "question": "Define Transaction and properties of transaction.",
+    "marks": 5
+  },
+
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Paper II (Programming with Python-I)",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "Demonstrate how list is mutable in nature.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Paper II (Programming with Python-I)",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "Write a program to check whether entered number is even or odd.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Paper II (Programming with Python-I)",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "Explain comparison operators with an example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Paper II (Programming with Python-I)",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "Write a short note on tuple data type.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Paper II (Programming with Python-I)",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "With a suitable example explain for loop.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Paper II (Programming with Python-I)",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "Write a short note on while loop.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Paper II (Programming with Python-I)",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "Explain any 5 list function with an example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Paper II (Programming with Python-I)",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "Write a program to find greatest among three numbers.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Paper II (Programming with Python-I)",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Explain Time module with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Paper II (Programming with Python-I)",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "Write a short note on dictionary data type.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Paper II (Programming with Python-I)",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Explain nested for loop with an example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Paper II (Programming with Python-I)",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "Demonstrate list comprehension with an example.",
+    "marks": 5
+  },
+
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q1(A)",
+    "question": "If f: R -> R is defined by f(x) = 2x + 3, then show that f is bijective and hence find inverse of f.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q1(B)",
+    "question": "Let A = {1, 2, 3, 4, 5}. Defined a relation R on A by xRy if and only if x + 1 = y. Find the relation R and write down its adjacency matrix. Also draw digraph of R.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q1(C)",
+    "question": "Consider recurrence relation a_n = a_{n-1} + 2a_{n-2} with a_9 = 3, a_10 = 5. Find a_7, a_12 and degree of recurrence relation.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q1(D)",
+    "question": "Let R be a relation on Z, defined by xRy if and only if 3x + 4y, is divisible by 7, for x, y in Z. Show that R is an equivalence relation on Z.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q2(A)",
+    "question": "If Q = {x / x^2 - 5x + 6 = 0}, R = {x / x^2 + 17x - 60 = 0}, Find (i) Q U R (ii) Q \\cap R (iii) Q^c",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q2(B)",
+    "question": "(a) State Pigeon Hole Principle (b) Show that there does not exist 7 lectures each of 30 minutes from 10 am to 1 pm.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q2(C)",
+    "question": "Find the number of arrangements of letters in the word (i) MATHEMATICS (ii) LOGARITHM",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q2(D)",
+    "question": "Find coefficient of x^2 y^5 in the expansion (3x + 2y)^5",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q3(A)",
+    "question": "(i) Define Handshaking lemma. (ii) How many edges are there in a graph with 5 vertices each of degree 10?",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q3(B)",
+    "question": "(i) Define Adjacency matrix. (ii) Draw a graph with adjacency matrix [matrix provided in question]. (iii) Draw a graph with incidence matrix [matrix provided in question].",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q3(C)",
+    "question": "Consider the binary tree T in the following figure. (a) Traverse T using the inorder algorithm (b) Traverse T using the post order algorithm [Binary tree diagram provided].",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2023-24",
+    "subject": "Discrete Mathematics",
+    "exam_type": "ATKT",
+    "question_number": "Q3(D)",
+    "question": "Explain Binary tree, Binary root tree and Extended binary tree with examples.",
+    "marks": 5
+  },
+
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Paper I (C Programming)",
+    "exam_type": "ATKT",
+    "question_number": "Q1(1)",
+    "question": "Explain Structure of C Program in detail with neat diagram.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Paper I (C Programming)",
+    "exam_type": "ATKT",
+    "question_number": "Q1(2)",
+    "question": "Explain different Arithmetic operators with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Paper I (C Programming)",
+    "exam_type": "ATKT",
+    "question_number": "Q1(3)",
+    "question": "Explain difference between for loop and while loop with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Paper I (C Programming)",
+    "exam_type": "ATKT",
+    "question_number": "Q1(4)",
+    "question": "Explain use of goto statement with suitable example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Paper I (C Programming)",
+    "exam_type": "ATKT",
+    "question_number": "Q2(1)",
+    "question": "Differentiate between one dimensional and two-dimensional array? Explain with an example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Paper I (C Programming)",
+    "exam_type": "ATKT",
+    "question_number": "Q2(2)",
+    "question": "Explain getchar() and putchar() function in detail with its example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Paper I (C Programming)",
+    "exam_type": "ATKT",
+    "question_number": "Q2(3)",
+    "question": "Define function. What is the use of function?",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Paper I (C Programming)",
+    "exam_type": "ATKT",
+    "question_number": "Q2(4)",
+    "question": "Explain recursion with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Paper I (C Programming)",
+    "exam_type": "ATKT",
+    "question_number": "Q3(1)",
+    "question": "Explain pointer variable with example.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Paper I (C Programming)",
+    "exam_type": "ATKT",
+    "question_number": "Q3(2)",
+    "question": "Explain the concept dynamic memory allocation in detail.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Paper I (C Programming)",
+    "exam_type": "ATKT",
+    "question_number": "Q3(3)",
+    "question": "Explain how structure can be initialized.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2023-24",
+    "subject": "Paper I (C Programming)",
+    "exam_type": "ATKT",
+    "question_number": "Q3(4)",
+    "question": "Explain how to write a file with example.",
+    "marks": 5
+  }
+]

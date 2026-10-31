@@ -1,0 +1,872 @@
+[
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q1(a)",
+    "question": "Explain in detail: i. Simple Reflex Agent 2. Model Based Reflex Agent",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q1(b)",
+    "question": "Solve a given problem using alpha-beta pruning and get the node value at A. [Tree diagram provided: Root A (MAX), children B, C (MIN), children D, E under B and F, G under C (MAX), terminal leaf values: D -> (2, 3), E -> (5, 9), F -> (0, 1), G -> (7, 5)]",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q1(c)",
+    "question": "Brief in detail Depth limited search and Iterative deepening depth first search.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q1(d)",
+    "question": "Short note on Genetic Algorithms.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q1(e)",
+    "question": "What is the nature of Environment? Explain its properties.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q1(f)",
+    "question": "Describe A\\* algorithm? For the given diagram, find shortest path between A to H using A\\*. [Diagram & Heuristics Table provided: Heuristics: A:5, B:3, C:4, D:2, E:6, F:3, G:1, H:0. Graph Edges & Costs: A->B (1), A->C (2), A->E (7), B->D (4), B->E (6), D->H (7), C->F (3), C->G (2), F->H (1), G->H (2)]",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q2(a)",
+    "question": "Define: a. Logical Agents b. Knowledge based Agents c. Knowledge base",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q2(b)",
+    "question": "Explain in detail propositional. How atomic and complex sentences are represented using propositional logic? Give an example. Also explain limitations of propositional logic.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q2(c)",
+    "question": "Explain with example: a. Universal Quantifier b. Existential Quantifier",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q2(d)",
+    "question": "What is Resolution in FOL? List steps for resolution. How resolution will apply on given example. a. If it is sunny and warm day you will enjoy. b. If it is raining you will get wet. c. It is a warm day. d. It is raining. e. It is sunny.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q2(e)",
+    "question": "Elaborate forward chaining with example.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q2(f)",
+    "question": "Explain in detail with example propositional logic given terms: a. Atomic sentence b. Complex sentence",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q3(a)",
+    "question": "Explain three forms of learning in AI with example.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q3(b)",
+    "question": "Elaborate following with an example: a. Simple Linear Regression b. Multiple Linear Regression",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Artificial Intelligence",
+    "exam_type": "Regular",
+    "question_number": "Q3(c)",
+    "question": "Elaborate in detail artificial neural network. Differentiate between single layer and multilayer perceptron.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q1(1)",
+    "question": "Explain booting process in Linux.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q1(2)",
+    "question": "Define following terms i. LILO ii. Kernel Loading iii. Kernel Execution",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q1(3)",
+    "question": "Explain useradd command with following options i. -c ii. -d iii. -e iv. -f",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q1(4)",
+    "question": "Discuss the commands for building and compiling a kernel?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q1(5)",
+    "question": "Briefly explain how to configure the kernel.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q1(6)",
+    "question": "What is a GNU public license? Explain advantages and disadvantages of open Source software.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q2(1)",
+    "question": "Explain IPv4 with a neat header diagram.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q2(2)",
+    "question": "Explain TCP header with neat diagram.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q2(3)",
+    "question": "Write a short note on a complete TCP connection.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q2(4)",
+    "question": "Write a short note on IPV6.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q2(5)",
+    "question": "Explain steps on how to configure Netfilter.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q2(6)",
+    "question": "Explain the role of firewalls for protecting Linux networks from security Threats?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q3(1)",
+    "question": "How to install and configure vsftpd server?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q3(2)",
+    "question": "Write the purpose of any five Global Configuration Directives of httpd.conf.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q3(3)",
+    "question": "List and explain the key components that are essential for email to work.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q3(4)",
+    "question": "Write a short note on installing the POP3 server.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q3(5)",
+    "question": "Explain working of SMTP protocol.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q3(6)",
+    "question": "What is Samba? What is a server message block? Explain",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q4(1)",
+    "question": "Explain the concept of NFS with suitable examples.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q4(2)",
+    "question": "Explain the showmount command with options and examples.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q4(3)",
+    "question": "Discuss the importance of NIS?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q4(4)",
+    "question": "What is a DHCP server? How is it configured? How is the DHCP client configured?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q4(5)",
+    "question": "Explain shortly LDAP basics.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Linux System Administration",
+    "exam_type": "Regular",
+    "question_number": "Q4(6)",
+    "question": "Write a short note on enabling NFS in Fedora as well as Ubuntu based systems.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q1(A)",
+    "question": "Write a brief note on Security Services and Security Mechanisms.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q1(B)",
+    "question": "Briefly explain Steganography and its types.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q1(C)",
+    "question": "Illustrate the Substitution Cipher Technique:- Vernam Cipher with suitable example.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q1(D)",
+    "question": "Define and explain encryption and decryption in Stream Cipher and with an example.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q1(E)",
+    "question": "Briefly elaborate the steps involved in 16 rounds of encryption in DES algorithm.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q1(F)",
+    "question": "Explain RSA algorithm with a suitable example.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q2(A)",
+    "question": "What is Key Management? Explain the types of public key distribution in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q2(B)",
+    "question": "Briefly explain Digital signature standard with suitable diagram.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q2(C)",
+    "question": "Write a note on SHA1 algorithm and explain its applications.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q2(D)",
+    "question": "List the types of hash functions explain any 2 in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q2(E)",
+    "question": "Explain benefits of Authentication Requirements and 3 classes of message authentication",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q2(F)",
+    "question": "Illustrate the working of Public Key Infrastructure.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q3(A)",
+    "question": "Write a brief note on PGP and state its disadvantages.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q3(B)",
+    "question": "Briefly explain Authentication header in IPSec.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q3(C)",
+    "question": "Illustrate Virus Countermeasures and four generations of antivirus software",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q3(D)",
+    "question": "List various non-physical threads and explain any 4 in detail",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q3(E)",
+    "question": "What is IDS? Explain NIDS and HIDS in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q3(F)",
+    "question": "Define DDoS. State and explain different types of DDoS attacks.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q4(A)",
+    "question": "What are Firewalls? List and explain various firewall design principles.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q4(B)",
+    "question": "List various types of firewalls explain any 2 in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q4(C)",
+    "question": "Briefly explain Demilitarized zones (DMZ).",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q4(D)",
+    "question": "Define hacking. State and explain its types in detail.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q4(E)",
+    "question": "State and explain the four reasons of why a security policy is important.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Information and Network Security",
+    "exam_type": "Regular",
+    "question_number": "Q4(F)",
+    "question": "Explain any five strategies for secure networking",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q1(1)",
+    "question": "Discuss the SOAP message structure with suitable diagram.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q1(2)",
+    "question": "What is web service? List and explain different characteristics of Web services.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q1(3)",
+    "question": "Differentiate between RPC and document Web service.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q1(4)",
+    "question": "Write a web service code in java to find the maximum of three numbers.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q1(5)",
+    "question": "Explain architecture of WCF with suitable diagram.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q1(6)",
+    "question": "Differentiate between WCF and Web Service.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q2(1)",
+    "question": "Explain high level architectural view of a RESTful system.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q2(2)",
+    "question": "Explain any @path, @Consume, @Produce, and @Queryparam annotations of RESTful Web Services.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q2(3)",
+    "question": "Discuss SOAP vs. REST API challenges.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q2(4)",
+    "question": "Explain request-response model of HTTP.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q2(5)",
+    "question": "List and explain different constraints of RESTful Services.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q2(6)",
+    "question": "Write steps to create Restful services from database.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q3(1)",
+    "question": "Write MVC code to retrieve all information from model.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q3(2)",
+    "question": "Why is the Web API important?.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q3(3)",
+    "question": "What is the difference between Web API and WCF?",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q3(4)",
+    "question": "List and explain different Web API filters.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q3(5)",
+    "question": "Write WEB API code for put and post method.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q3(6)",
+    "question": "What is MVC? Write difference between MVC and Web API.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q4(1)",
+    "question": "What is Microservice? Explain Microservice architecture.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q4(2)",
+    "question": "Differentiate between Microservice and Monolithic architecture.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q4(3)",
+    "question": "List different challenges of microservice.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q4(4)",
+    "question": "List and explain different categories of services.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q4(5)",
+    "question": "Explain concepts of security in microservice.",
+    "marks": 5
+  },
+  {
+    "year": "TY",
+    "semester": 5,
+    "academic_year": "2023-24",
+    "subject": "Web Services",
+    "exam_type": "Regular",
+    "question_number": "Q4(6)",
+    "question": "Write short note on SOA.",
+    "marks": 5
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q1(A)",
+    "question": "Write a short note on mainframe-computer.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q1(B)",
+    "question": "Convert:- a) (125)10 = (?)2  b) (110101101)2 = (?)8",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q1(C)",
+    "question": "Describe basic logic gates.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q1(D)",
+    "question": "Simplify given Boolean expression:- Y=A'B'CD+ABC'D+A'BCD'+AB'CD+ABC'D'+ABCD+A'B'C'D'",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q1(E)",
+    "question": "Draw the logic circuit, write the Boolean expression and explain Full-adder.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q1(F)",
+    "question": "Write a short note on Sequential Circuit.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q2(A)",
+    "question": "Write a short note on Auxiliary memory.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q2(B)",
+    "question": "Describe the Concept of word size.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q2(C)",
+    "question": "Write a short note on RISC microcontroller.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q2(D)",
+    "question": "Explain the following addressing modes: a) Implicit b) Immediate",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q2(E)",
+    "question": "Discuss the advantages and disadvantages of CISC architecture.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q2(F)",
+    "question": "Discuss about various types of RAM.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q3(A)",
+    "question": "Write a short note on ALU.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q3(B)",
+    "question": "Explain the working of register files.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q3(C)",
+    "question": "Draw the neat diagram of five stage organization of data path and also explain it.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q3(D)",
+    "question": "With suitable example, Explain the steps of instruction fetch and execution.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q3(E)",
+    "question": "Explain how the component of processor communicates with each other.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q3(F)",
+    "question": "Explain the role of Processor memory interface.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q4(A)",
+    "question": "Find the Excess-3 code for following: a) (412)10 b) (352)10",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q4(B)",
+    "question": "List and explain with suitable example, the rules for k-map.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q4(C)",
+    "question": "Write a short note on Combination Circuit.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q4(D)",
+    "question": "With neat diagram explain the concept of S-R flip-flop.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q4(E)",
+    "question": "Differentiate between main memory and secondary memory.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  },
+  {
+    "year": "FY",
+    "semester": 1,
+    "academic_year": "2022-23",
+    "subject": "Computer Organization And Design",
+    "question_number": "Q4(F)",
+    "question": "Explain in detail the role of IR and PC while instruction execution.",
+    "marks": 5,
+    "source_file": "FYBSc Sem1 Regular 2022-23.pdf"
+  }
+]

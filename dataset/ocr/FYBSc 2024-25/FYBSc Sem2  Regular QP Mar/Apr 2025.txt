@@ -1,0 +1,142 @@
+[
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2024-25",
+    "subject": "Data Structure",
+    "exam_type": "Regular",
+    "question_number": "Q1(A)",
+    "question": "Explain the working of Quick sort algorithm.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2024-25",
+    "subject": "Data Structure",
+    "exam_type": "Regular",
+    "question_number": "Q1(B)",
+    "question": "Solve the following array using Bubble sort algorithm: {13, 32, 26, 35, 10}",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2024-25",
+    "subject": "Data Structure",
+    "exam_type": "Regular",
+    "question_number": "Q1(C)",
+    "question": "Solve the following array using binary search algorithm: {3, 5, 7, 12, 24, 29, 38} and the key element is 24.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2024-25",
+    "subject": "Data Structure",
+    "exam_type": "Regular",
+    "question_number": "Q1(D)",
+    "question": "Explain the following: a) List ADT b) Stack ADT c) Queue ADT",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2024-25",
+    "subject": "Data Structure",
+    "exam_type": "Regular",
+    "question_number": "Q2(A)",
+    "question": "What is heap? Explain its two types.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2024-25",
+    "subject": "Data Structure",
+    "exam_type": "Regular",
+    "question_number": "Q2(B)",
+    "question": "Explain Doubly Singly Linked List in detail.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2024-25",
+    "subject": "Data Structure",
+    "exam_type": "Regular",
+    "question_number": "Q2(C)",
+    "question": "With the help of an example explain Preorder, Postorder and Inorder of DFS graph traversal.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2024-25",
+    "subject": "Data Structure",
+    "exam_type": "Regular",
+    "question_number": "Q2(D)",
+    "question": "What is binary tree? Explain different terms related to tree with the help an diagram.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2024-25",
+    "subject": "Data Structure",
+    "exam_type": "Regular",
+    "question_number": "Q3(A)",
+    "question": "Explain advantage and dis-advantage of selection sort algorithm.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2024-25",
+    "subject": "Data Structure",
+    "exam_type": "Regular",
+    "question_number": "Q3(B)",
+    "question": "Explain the following Built-in data structure: a) List b) Dictionary",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2024-25",
+    "subject": "Data Structure",
+    "exam_type": "Regular",
+    "question_number": "Q3(C)",
+    "question": "With the help of algorithm explain how to traverse singly linked-list",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2024-25",
+    "subject": "Data Structure",
+    "exam_type": "Regular",
+    "question_number": "Q3(D)",
+    "question": "What is stack? Explain its advantage and drawback.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2024-25",
+    "subject": "Professional Ethics (Case Studies)",
+    "exam_type": "Regular",
+    "question_number": "Q1(b)",
+    "question": "You are District Magistrate of a flood-prone district. The flood control department has allocated forty crore rupees for building embankments in the low lying area of the river bed. There have been various complaints from locals over the delay in project completion, violations of rules and misuse of funds by the nexus of politicians and contractors.\nDuring monsoon, the embankment construction couldn't withstand a single season of flooding. This has led to the submergence of many villages in floodwater and thousands of people are trapped in the villages. The villages are completely cut off and there is a scarcity of food and drinking water. Due to water stagnation, there is also a risk of epidemic spread in the region.\nThere is huge discontent and protest over the allegation of corruption against the local politician. As he is a popular face of ruling political party in the state, there is severe pressure from political heads to cover the corruption issue. Defying the orders of political bosses will bring wrath towards you and may also lead to transfer.\nIdentify the various dimensions of the crisis involved in the issue. Based on your understanding, suggest measures to deal with the crisis.",
+    "marks": 5
+  },
+  {
+    "year": "FY",
+    "semester": 2,
+    "academic_year": "2024-25",
+    "subject": "Professional Ethics (Case Studies)",
+    "exam_type": "Regular",
+    "question_number": "Q1(c)",
+    "question": "You are the Superintendent of Police (SP) in the district where instances of honour killing are rampant. One day you receive a phone call from a girl informing you of the potential threat to her and her partners' life from her family as she has decided to marry a boy belonging to a lower caste. Moreover, the local police station is not filing the FIR or granting them protection. You ask her to visit your office but she demands police protection to come out from the hideout as her father",
+    "marks": 5
+  }
+]
