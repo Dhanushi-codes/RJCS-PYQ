@@ -1,7 +1,7 @@
 import os
 import sys
 from pathlib import Path
-from typing import List, Optional
+from typing import List
 
 import pymupdf
 from google import genai
@@ -16,17 +16,17 @@ class QuestionItem(BaseModel):
     section: str = Field(description="e.g. 'Q.1', 'Q.2'")
     sub_label: str = Field(description="e.g. 'A', 'B', '1'")
     question_text: str = Field(description="Full text of the question, with all tags preserved")
-    marks: Optional[int] = Field(default=5, description="Marks for this specific question if known or calculable")
-    topic: Optional[str] = Field(default=None, description="Topic tag, e.g. 'HTML', 'JavaScript', 'CSS', 'PHP', 'AJAX', 'XML'")
+    marks: int | None = Field(default=5, description="Marks for this specific question if known or calculable")
+    topic: str | None = Field(default=None, description="Topic tag, e.g. 'HTML', 'JavaScript', 'CSS', 'PHP', 'AJAX', 'XML'")
 
 class ExamPaper(BaseModel):
     college_name: str
     subject_name: str
-    subject_code: Optional[str]
+    subject_code: str | None
     semester: str
     syllabus_version: str
-    exam_date: Optional[str]
-    max_marks: Optional[int]
+    exam_date: str | None
+    max_marks: int | None
     questions: List[QuestionItem]
 
 # ---------------------------------------------------------
@@ -64,7 +64,7 @@ You are an expert exam paper digitizer for university Computer Science exams.
 Extract the metadata and all individual questions from this exam paper page into the exact requested JSON schema.
 
 Guidelines:
-- Each question and sub-part must be a separate entry in the questions list.
+- Each question and sub-part must be a separate entry in the questions List.
 - For choice questions (e.g., 'Attempt any Three' for 15 marks total), each sub-question carries 5 marks.
 - Fill in the blanks (Q.4) should each be a distinct QuestionItem with marks=1.
 - Accurately tag the topic ('HTML', 'JavaScript', 'CSS', 'PHP', 'AJAX', 'XML').
